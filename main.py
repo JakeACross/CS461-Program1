@@ -28,15 +28,6 @@ class Card:
     def __eq__(self, other):
         return self.rank == other.rank
 
-    def __ne__(self, other):
-        return self.rank != other.rank
-
-    def __lt__(self, other):
-        return self.rank < other.rank
-
-    def __le__(self, other):
-        return self.rank <= other.rank
-
     def __gt__(self, other):
         return self.rank > other.rank
 
@@ -159,6 +150,14 @@ def isRoyal(hand):
     return False
 
 
+def strongest(players):
+    high_p = players[0]
+    for p in range(1, len(players) - 1):
+        if high(high_p, players[p]) == 0:
+            high_p = players[p]
+    return high_p
+
+
 def high(p1, p2):
     if p1 > p2:
         return 1
@@ -178,6 +177,7 @@ def high(p1, p2):
 RANKS = (2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14)
 SUITS = ('S', 'H', 'D', 'C')
 deck = []
+computers = []
 high_card = {"win": 0, "count": 0}
 one_pair = {"win": 0, "count": 0}
 two_pair = {"win": 0, "count": 0}
@@ -195,6 +195,7 @@ for number in RANKS:
 outfile = open("log.txt", 'w')
 # Continuing for more than 500 times
 for i in range(1, 501):
+    computers = []
     random.shuffle(deck)
     you = Player(deck[:5])
     com1 = Player(deck[5:10])
@@ -208,59 +209,70 @@ for i in range(1, 501):
     com3.evaluate()
     com4.evaluate()
     com5.evaluate()
+    computers.append(com1)
+    computers.append(com2)
+    computers.append(com3)
+    computers.append(com4)
+    computers.append(com5)
     for c in you.hand:
         outfile.write(str(c) + ", ")
+    """
+    outfile.write(" vs ")
+    print()
+    for c in strongest(computers).hand:
+        outfile.write(str(c) + ", ")
+    """
 
-    result = high(you, com1)
+    result = high(you, strongest(computers))
     percentage = 0
     if you.value == 9:
         st_flush["win"] += result
         st_flush["count"] += 1
         percentage = round(st_flush["win"] / st_flush["count"] * 100, 2)
         if isRoyal(you.hand):
-            outfile.write("Royal Straight Flush!!!, percentage: " + str(percentage) + "%")
+            outfile.write("Royal Straight Flush!!!, " + str(percentage) + "%")
         else:
-            outfile.write("Straight Flush, percentage: " + str(percentage) + "%")
+            outfile.write("Straight Flush, " + str(percentage) + "%")
     elif you.value == 8:
         four_card["win"] += result
         four_card["count"] += 1
         percentage = round(four_card["win"] / four_card["count"] * 100, 2)
-        outfile.write("Four of a KInd, percentage: " + str(percentage) + "%")
+        outfile.write("Four of a KInd, " + str(percentage) + "%")
     elif you.value == 7:
         full_house["win"] += result
         full_house["count"] += 1
         percentage = round(full_house["win"] / full_house["count"] * 100, 2)
-        outfile.write("Full House, percentage: " + str(percentage) + "%")
+        outfile.write("Full House, " + str(percentage) + "%")
     elif you.value == 6:
         flush["win"] += result
         flush["count"] += 1
         percentage = round(flush["win"] / flush["count"] * 100, 2)
-        outfile.write("Flush, percentage: " + str(percentage) + "%")
+        outfile.write("Flush, " + str(percentage) + "%")
     elif you.value == 5:
         straight["win"] += result
         straight["count"] += 1
         percentage = round(straight["win"] / straight["count"] * 100, 2)
-        outfile.write("Straight, percentage: " + str(percentage) + "%")
+        outfile.write("Straight, " + str(percentage) + "%")
     elif you.value == 4:
         three_card["win"] += result
         three_card["count"] += 1
         percentage = round(three_card["win"] / three_card["count"] * 100, 2)
-        outfile.write("Three of a KInd, percentage: " + str(percentage) + "%")
+        outfile.write("Three of a KInd, " + str(percentage) + "%")
     elif you.value == 3:
         two_pair["win"] += result
         two_pair["count"] += 1
         percentage = round(two_pair["win"] / two_pair["count"] * 100, 2)
-        outfile.write("Two Pair, percentage: " + str(percentage) + "%")
+        outfile.write("Two Pair, " + str(percentage) + "%")
     elif you.value == 2:
         one_pair["win"] += result
         one_pair["count"] += 1
         percentage = round(one_pair["win"] / one_pair["count"] * 100, 2)
-        outfile.write("One Pair, percentage: " + str(percentage) + "%")
+        outfile.write("One Pair, " + str(percentage) + "%")
     else:
         high_card["win"] += result
         high_card["count"] += 1
         percentage = round(high_card["win"] / high_card["count"] * 100, 2)
-        outfile.write("High Card, percentage: " + str(percentage) + "%")
+        outfile.write("High Card, " + str(percentage) + "%")
     outfile.write("\n")
 outfile.close()
 
