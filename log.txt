@@ -1,500 +1,1001 @@
-AH, QD, 8D, 6C, 5H, High Card, percentage: 100.0%
-QC, 10S, 9H, 4C, 3H, High Card, percentage: 50.0%
-KH, QC, 9D, 3D, 2D, High Card, percentage: 33.33%
-AH, JS, 10C, 7S, 5S, High Card, percentage: 25.0%
-QC, JC, JH, 6S, 3C, One Pair, percentage: 100.0%
-AC, KD, KS, QD, 10S, One Pair, percentage: 100.0%
-AH, JD, 10S, 7C, 2D, High Card, percentage: 40.0%
-AS, KS, QC, 9H, 6H, High Card, percentage: 50.0%
-JH, JS, 8H, 7C, 5D, One Pair, percentage: 100.0%
-AS, KC, 4D, 4C, 4H, Two Pair, percentage: 100.0%
-KS, KD, 9H, 8H, 7S, One Pair, percentage: 100.0%
-9D, 8H, 4C, 4S, 3H, One Pair, percentage: 100.0%
-KS, QH, 7H, 3D, 3C, One Pair, percentage: 100.0%
-AH, AC, QD, 10D, 4C, One Pair, percentage: 100.0%
-AS, 10D, 9H, 5S, 4C, High Card, percentage: 57.14%
-AH, KS, 8H, 3C, 2H, High Card, percentage: 62.5%
-AH, KD, JH, 10D, 7C, High Card, percentage: 66.67%
-JH, 10C, 10H, 9C, 6H, One Pair, percentage: 87.5%
-JS, 9H, 8C, 5D, 2D, High Card, percentage: 60.0%
-QH, 9D, 5C, 4H, 2D, High Card, percentage: 54.55%
-KH, JS, 6C, 4S, 4H, One Pair, percentage: 88.89%
-9D, 9C, 6D, 6S, 4D, Two Pair, percentage: 100.0%
-KH, QD, 6H, 6D, 4S, One Pair, percentage: 80.0%
-JC, 8D, 4S, 3D, 2C, High Card, percentage: 50.0%
-JD, 10H, 8H, 7C, 5S, High Card, percentage: 46.15%
-AD, KH, 10C, 8C, 5H, High Card, percentage: 50.0%
-AS, QS, 6H, 4H, 2C, High Card, percentage: 46.67%
-AH, KC, JS, 5C, 5H, One Pair, percentage: 81.82%
-KC, QH, JC, 8S, 2S, High Card, percentage: 43.75%
-10C, 5H, 4C, 4H, 4D, Two Pair, percentage: 100.0%
-AC, 10D, 10S, 8D, 5D, One Pair, percentage: 83.33%
-QD, 8C, 4H, 2S, 2D, One Pair, percentage: 76.92%
-AH, JS, 10D, 10S, 8H, One Pair, percentage: 78.57%
-KC, JS, 7H, 4S, 3D, High Card, percentage: 41.18%
-KH, KD, JD, 3S, 2H, One Pair, percentage: 80.0%
-AC, KD, QD, 10H, 3S, High Card, percentage: 44.44%
-AC, KD, QH, 8S, 3D, High Card, percentage: 47.37%
-KC, 5S, 5D, 4C, 2C, One Pair, percentage: 75.0%
-KD, KC, 9C, 9D, 6H, Two Pair, percentage: 100.0%
-AD, QC, 9S, 8H, 2C, High Card, percentage: 50.0%
-QD, 9D, 8D, 5H, 4D, High Card, percentage: 47.62%
-AD, JH, 6C, 4D, 3C, High Card, percentage: 45.45%
-JD, JH, JS, 9D, 7S, Two Pair, percentage: 100.0%
-AS, AD, QD, 7D, 4S, One Pair, percentage: 76.47%
-10S, 10H, 6H, 4D, 2C, One Pair, percentage: 77.78%
-JS, 9D, 9C, 9S, 8H, Two Pair, percentage: 100.0%
-JH, 8H, 6C, 4S, 3H, High Card, percentage: 43.48%
-JC, 9S, 7D, 3C, 3D, One Pair, percentage: 73.68%
-JH, JC, 5C, 4H, 3S, One Pair, percentage: 70.0%
-KD, 8S, 7D, 5H, 2S, High Card, percentage: 41.67%
-KH, QC, JC, 9H, 7S, High Card, percentage: 40.0%
-9D, 9H, 8D, 6H, 5C, One Pair, percentage: 71.43%
-AH, JS, 7S, 2C, 2H, One Pair, percentage: 68.18%
-AC, KH, JC, 6H, 6S, One Pair, percentage: 69.57%
-QD, 10S, 6H, 3H, 3C, One Pair, percentage: 70.83%
-AS, KH, JD, 6D, 6S, One Pair, percentage: 72.0%
-QH, 10D, 9D, 6D, 2S, High Card, percentage: 42.31%
-QC, 10C, 8D, 3D, 2H, High Card, percentage: 40.74%
-KD, 10H, 7C, 5S, 3S, High Card, percentage: 39.29%
-AC, 9S, 8H, 4C, 2S, High Card, percentage: 37.93%
-AS, QS, JH, JD, 7C, One Pair, percentage: 73.08%
-10S, 8S, 6D, 6H, 4S, One Pair, percentage: 74.07%
-JS, 8C, 8S, 6H, 4H, One Pair, percentage: 71.43%
-AD, QC, 8H, 3C, 3D, One Pair, percentage: 72.41%
-KS, QS, 10H, 2S, 2C, One Pair, percentage: 70.0%
-KC, QC, 9C, 6C, 3H, High Card, percentage: 40.0%
-AD, KD, JH, 7C, 3C, High Card, percentage: 41.94%
-KS, 8H, 7C, 4C, 3D, High Card, percentage: 40.62%
-AD, QD, 8H, 6D, 3H, High Card, percentage: 42.42%
-KD, QH, 10C, 9C, 7H, High Card, percentage: 41.18%
-QC, JH, 9D, 5D, 4D, High Card, percentage: 40.0%
-QS, JH, 10S, 8D, 2S, High Card, percentage: 38.89%
-AS, KC, 8S, 5C, 4D, High Card, percentage: 37.84%
-9C, 9D, 8C, 6S, 6D, Two Pair, percentage: 100.0%
-AC, AS, AH, JS, 9D, Two Pair, percentage: 100.0%
-AD, 9C, 8S, 5C, 3D, High Card, percentage: 39.47%
-KC, QS, 8D, 5H, 2C, High Card, percentage: 38.46%
-QS, QH, JS, 10C, 9D, One Pair, percentage: 70.97%
-10S, 8H, 3D, 3H, 3C, Two Pair, percentage: 100.0%
-AH, 6C, 4H, 3D, 2H, High Card, percentage: 37.5%
-KS, 8H, 7C, 5D, 5C, One Pair, percentage: 71.88%
-QH, 10S, 8D, 8C, 5S, One Pair, percentage: 69.7%
-KD, 10C, 5H, 3D, 2H, High Card, percentage: 36.59%
-AC, QC, 8H, 6C, 3H, High Card, percentage: 38.1%
-JS, 7S, 6C, 3H, 3S, One Pair, percentage: 70.59%
-10H, 8H, 5C, 4H, 4C, One Pair, percentage: 68.57%
-AD, 8S, 3C, 2C, 2D, One Pair, percentage: 69.44%
-KH, QD, 6S, 6C, 2S, One Pair, percentage: 70.27%
-9D, 8C, 6C, 3H, 2S, High Card, percentage: 37.21%
-9H, 7D, 5D, 3S, 3C, One Pair, percentage: 71.05%
-KC, 9D, 8D, 5S, 4H, High Card, percentage: 36.36%
-AD, JC, 9S, 5D, 4C, High Card, percentage: 35.56%
-KH, 9H, 8H, 6H, 4C, High Card, percentage: 34.78%
-KD, 9D, 7D, 5S, 3D, High Card, percentage: 34.04%
-KC, JH, 7C, 6H, 3C, High Card, percentage: 33.33%
-AD, JH, JC, 9C, 6H, One Pair, percentage: 71.79%
-AH, JH, JD, 9D, 8S, One Pair, percentage: 72.5%
-KC, QH, 9D, 4S, 2S, High Card, percentage: 32.65%
-QD, QH, 9C, 3H, 2D, One Pair, percentage: 70.73%
-KC, JC, 6S, 5S, 5H, One Pair, percentage: 71.43%
-AS, KH, 10H, 4H, 2H, High Card, percentage: 32.0%
-KS, JD, 8D, 8C, 7D, One Pair, percentage: 72.09%
-9C, 9H, 8S, 5H, 4H, One Pair, percentage: 70.45%
-9H, 8D, 7S, 3S, 2C, High Card, percentage: 31.37%
-AD, QH, JD, JS, 5H, One Pair, percentage: 71.11%
-AC, KC, 9H, 7H, 7S, One Pair, percentage: 71.74%
-JH, JD, 10C, 10H, 10D, Two Pair, percentage: 100.0%
-6D, 6C, 4H, 3C, 2H, One Pair, percentage: 72.34%
-10C, 9C, 9S, 4H, 3S, One Pair, percentage: 70.83%
-AD, 8C, 8S, 7H, 3S, One Pair, percentage: 71.43%
-9H, 8C, 6C, 6H, 3C, One Pair, percentage: 70.0%
-QD, 9S, 8C, 8H, 2S, One Pair, percentage: 70.59%
-9C, 8S, 4H, 3H, 3C, One Pair, percentage: 69.23%
-AH, 6C, 4H, 3S, 2D, High Card, percentage: 30.77%
-QD, JC, 7H, 6S, 5H, High Card, percentage: 32.08%
-QS, JS, JD, 9D, 4D, One Pair, percentage: 67.92%
-QS, JS, JD, 6D, 5C, One Pair, percentage: 66.67%
-JS, 9S, 7S, 6D, 5D, High Card, percentage: 31.48%
-JH, 9H, 6H, 4D, 2H, High Card, percentage: 30.91%
-AC, QH, QC, 9S, 3D, One Pair, percentage: 67.27%
-JD, 6C, 5H, 4D, 3H, High Card, percentage: 30.36%
-9H, 8C, 3S, 2H, 2S, One Pair, percentage: 67.86%
-AH, QS, QD, JH, 4H, One Pair, percentage: 68.42%
-AC, 10D, 6H, 3S, 2D, High Card, percentage: 31.58%
-AS, JC, 10C, 9D, 2S, High Card, percentage: 31.03%
-KD, JH, 10S, 7D, 4C, High Card, percentage: 30.51%
-9D, 7S, 4S, 4D, 4H, Two Pair, percentage: 100.0%
-7H, 6D, 6S, 5S, 4S, One Pair, percentage: 68.97%
-7D, 6D, 5D, 3S, 2H, High Card, percentage: 30.0%
-AC, 9H, 7H, 6D, 2S, High Card, percentage: 29.51%
-AC, AD, JD, 10D, 5S, One Pair, percentage: 69.49%
-AD, KC, 8D, 6S, 2H, High Card, percentage: 29.03%
-KD, QH, 10C, 7C, 4H, High Card, percentage: 28.57%
-KC, QC, 10H, 8C, 7C, High Card, percentage: 29.69%
-AC, KH, QD, QS, 7C, One Pair, percentage: 70.0%
-AS, KS, 8D, 7D, 7S, One Pair, percentage: 70.49%
-10H, 7S, 5C, 3C, 2D, High Card, percentage: 29.23%
-JH, 4S, 4H, 3D, 2D, One Pair, percentage: 69.35%
-KD, 9H, 8S, 6D, 3H, High Card, percentage: 28.79%
-KC, KS, 9C, 8C, 7S, One Pair, percentage: 68.25%
-JH, 8C, 6H, 4H, 3H, High Card, percentage: 28.36%
-AC, 9H, 7H, 5S, 4H, High Card, percentage: 29.41%
-QS, 9D, 7S, 5C, 4C, High Card, percentage: 30.43%
-AS, KH, 10S, 8S, 2C, High Card, percentage: 30.0%
-AD, JH, 9D, 4D, 2H, High Card, percentage: 29.58%
-JS, 10D, 8C, 6H, 5D, High Card, percentage: 29.17%
-QH, JH, 9H, 4C, 4D, One Pair, percentage: 67.19%
-QD, JS, 9C, 5C, 4C, High Card, percentage: 30.14%
-AH, 10S, 9D, 6H, 4C, High Card, percentage: 29.73%
-QS, JH, JS, 6H, 5D, One Pair, percentage: 66.15%
-JH, 10D, 9H, 4C, 3S, High Card, percentage: 30.67%
-KD, 6D, 6S, 6C, 3H, Two Pair, percentage: 100.0%
-KD, JD, 9C, 7H, 4D, High Card, percentage: 30.26%
-KC, 10H, 9D, 8S, 2C, High Card, percentage: 29.87%
-AD, AH, KS, KH, 6S, Two Pair, percentage: 100.0%
-AC, QH, 10D, 7H, 2H, High Card, percentage: 29.49%
-QH, 8C, 5C, 5H, 2S, One Pair, percentage: 65.15%
-QH, 6C, 4D, 2D, 2C, One Pair, percentage: 65.67%
-AD, QD, JH, 9S, 6C, High Card, percentage: 29.11%
-KS, 7C, 5H, 2S, 2D, One Pair, percentage: 64.71%
-AH, 9C, 9H, 3S, 3C, Two Pair, percentage: 100.0%
-10D, 10C, 9S, 9H, 2S, Two Pair, percentage: 100.0%
-JH, JC, 7H, 4C, 2C, One Pair, percentage: 65.22%
-AD, 9S, 7D, 7S, 5D, One Pair, percentage: 65.71%
-KD, JS, JD, JC, 2S, Two Pair, percentage: 100.0%
-JH, 7H, 5S, 4S, 2C, High Card, percentage: 28.75%
-KS, JH, 7D, 5H, 5S, One Pair, percentage: 66.2%
-10D, 9S, 8D, 7D, 2C, High Card, percentage: 28.4%
-AD, KD, JS, 8D, 2S, High Card, percentage: 29.27%
-QC, 7S, 6D, 4S, 3D, High Card, percentage: 28.92%
-AH, KC, JC, 8C, 6C, High Card, percentage: 28.57%
-AD, 10S, 5D, 3D, 2C, High Card, percentage: 28.24%
-AD, 10C, 10D, 8C, 7C, One Pair, percentage: 66.67%
-JC, 9C, 5S, 4H, 2H, High Card, percentage: 27.91%
-AH, AC, KD, 6D, 3S, One Pair, percentage: 67.12%
-QS, 10C, 7S, 6C, 4D, High Card, percentage: 27.59%
-KD, 9D, 4H, 3H, 3S, One Pair, percentage: 67.57%
-KH, JH, 7S, 6C, 2D, High Card, percentage: 27.27%
-KD, JH, 9H, 3D, 2D, High Card, percentage: 26.97%
-JS, 9H, 8D, 4H, 4S, One Pair, percentage: 68.0%
-QS, JC, 7D, 3H, 2D, High Card, percentage: 26.67%
-AD, KH, QD, 6D, 3C, High Card, percentage: 27.47%
-8S, 7C, 5C, 3C, 2C, High Card, percentage: 27.17%
-AC, 10S, 10C, 9C, 4S, One Pair, percentage: 68.42%
-AD, 10C, 9C, 4D, 3H, High Card, percentage: 27.96%
-AH, KS, KD, 9H, 5H, One Pair, percentage: 68.83%
-9S, 8C, 7C, 6S, 2S, High Card, percentage: 27.66%
-AH, AD, JH, 5S, 2H, One Pair, percentage: 69.23%
-10C, 9S, 6C, 5D, 3H, High Card, percentage: 27.37%
-AH, 9H, 8S, 6C, 2D, High Card, percentage: 27.08%
-10D, 9C, 6S, 4D, 3H, High Card, percentage: 26.8%
-JH, 9S, 8H, 8S, 7C, One Pair, percentage: 69.62%
-AC, QC, 10D, 9S, 8H, High Card, percentage: 27.55%
-AC, QD, QC, 10D, 8S, One Pair, percentage: 70.0%
-JS, 6H, 5H, 3C, 2C, High Card, percentage: 27.27%
-QD, QC, JC, 5D, 5C, Two Pair, percentage: 100.0%
-AC, JH, 9S, 4C, 3C, High Card, percentage: 28.0%
-10C, 8D, 8C, 3H, 3S, Two Pair, percentage: 100.0%
-9C, 6C, 5C, 4C, 2S, High Card, percentage: 27.72%
-9H, 8D, 7D, 4C, 4S, One Pair, percentage: 69.14%
-JS, 10C, 7H, 5C, 2S, High Card, percentage: 27.45%
-10D, 9C, 4D, 4H, 2D, One Pair, percentage: 69.51%
-KC, JC, 10S, 9S, 7C, High Card, percentage: 27.18%
-JS, 9H, 9D, 5D, 4C, One Pair, percentage: 69.88%
-9H, 7C, 5S, 2S, 2H, One Pair, percentage: 69.05%
-AH, KH, QS, 9D, 8H, High Card, percentage: 26.92%
-KH, QC, 7S, 4H, 2H, High Card, percentage: 26.67%
-7D, 7C, 6H, 5S, 5C, Two Pair, percentage: 100.0%
-AD, AH, QH, 7H, 5C, One Pair, percentage: 69.41%
-JD, 10C, 10S, 3C, 2H, One Pair, percentage: 69.77%
-9S, 8D, 7D, 7C, 3D, One Pair, percentage: 70.11%
-KH, 9H, 6C, 5C, 3S, High Card, percentage: 27.36%
-AC, KS, 8C, 5C, 2C, High Card, percentage: 28.04%
-10C, 9S, 9C, 6H, 4D, One Pair, percentage: 69.32%
-AS, KD, JD, 7D, 5S, High Card, percentage: 27.78%
-AS, 9S, 7C, 4C, 2D, High Card, percentage: 27.52%
-QD, QC, 10D, 9C, 4C, One Pair, percentage: 68.54%
-JC, 10D, 8S, 5S, 2D, High Card, percentage: 27.27%
-QC, 9D, 7S, 5C, 2S, High Card, percentage: 27.03%
-QD, 8D, 7C, 4S, 3H, High Card, percentage: 27.23%
-AC, KS, 10H, 6S, 3H, High Card, percentage: 26.99%
-KC, KS, 9S, 6S, 4D, One Pair, percentage: 67.78%
-KH, QS, 8S, 8H, 3H, One Pair, percentage: 68.13%
-JH, 7C, 6D, 6H, 5H, One Pair, percentage: 67.39%
-QS, 10H, 8H, 6S, 4D, High Card, percentage: 26.75%
-AD, 10H, 5H, 4S, 3C, High Card, percentage: 27.39%
-KD, 10C, 6S, 5H, 2S, High Card, percentage: 28.02%
-KD, JD, 7D, 6C, 2S, High Card, percentage: 27.78%
-AH, KH, 9H, 8C, 7C, High Card, percentage: 28.39%
-AS, AC, KC, 8C, 4S, One Pair, percentage: 67.74%
-AH, QH, 10H, 5C, 2S, High Card, percentage: 28.15%
-JC, JH, 6C, 5C, 3C, One Pair, percentage: 68.09%
-AH, 5H, 4D, 4C, 3S, One Pair, percentage: 68.42%
-QS, JH, 7S, 4H, 3S, High Card, percentage: 28.75%
-QS, JS, 9H, 3S, 2H, High Card, percentage: 28.51%
-QH, JD, 10H, 2D, 2H, One Pair, percentage: 68.75%
-QD, 10S, 8C, 8S, 6C, One Pair, percentage: 68.04%
-QD, JH, JD, 8C, 3C, One Pair, percentage: 68.37%
-KS, 7H, 6H, 2S, 2H, One Pair, percentage: 68.69%
-JC, 7C, 5H, 3S, 2C, High Card, percentage: 28.28%
-KD, KC, 6H, 6D, 5D, Two Pair, percentage: 100.0%
-AC, KH, 9S, 7C, 2S, High Card, percentage: 28.05%
-JS, 10H, 5S, 5D, 2D, One Pair, percentage: 69.0%
-QC, JH, 6D, 5D, 2D, High Card, percentage: 27.82%
-QD, JC, 7S, 7D, 2S, One Pair, percentage: 69.31%
-AC, QS, JH, 8C, 3D, High Card, percentage: 27.6%
-KS, JC, 10S, 10H, 6S, One Pair, percentage: 68.63%
-QC, JD, 7D, 3S, 2D, High Card, percentage: 27.38%
-QD, JS, JC, 4S, 3C, One Pair, percentage: 68.93%
-QH, QS, JD, 9D, 2C, One Pair, percentage: 69.23%
-AS, KD, 10S, 9C, 4H, High Card, percentage: 27.17%
-QS, JC, 5H, 4D, 3C, High Card, percentage: 26.95%
-QC, 9D, 8C, 5D, 4H, High Card, percentage: 26.74%
-AD, 8D, 7D, 6D, 2H, High Card, percentage: 27.31%
-QD, 8S, 8H, 4H, 3S, One Pair, percentage: 69.52%
-AD, KH, 9S, 8S, 5C, High Card, percentage: 27.1%
-QS, 10S, 9S, 6S, 4D, High Card, percentage: 26.89%
-KH, QD, 7H, 6D, 5H, High Card, percentage: 26.69%
-KS, KH, JS, 7S, 2H, One Pair, percentage: 68.87%
-AS, AD, KC, 7H, 2D, One Pair, percentage: 69.16%
-AC, KS, 9H, 9C, 5H, One Pair, percentage: 69.44%
-QS, JH, 10H, 10C, 5S, One Pair, percentage: 69.72%
-AD, 8S, 3D, 2H, 2S, One Pair, percentage: 70.0%
-KC, 10H, 8H, 4H, 3C, High Card, percentage: 27.24%
-QC, JH, 7H, 3D, 2D, High Card, percentage: 27.04%
-AC, KC, 8H, 6S, 5S, High Card, percentage: 26.84%
-AC, JS, 7D, 4S, 3H, High Card, percentage: 26.64%
-9D, 8S, 6H, 4H, 3D, High Card, percentage: 26.45%
-KS, KH, 10S, 7S, 5C, One Pair, percentage: 69.37%
-JD, 9S, 6C, 3D, 2C, High Card, percentage: 26.26%
-AC, KC, 7H, 4D, 3C, High Card, percentage: 26.79%
-KS, QH, QC, 7S, 6C, One Pair, percentage: 69.64%
-AH, 8S, 7D, 6H, 3S, High Card, percentage: 27.3%
-AD, KD, 10C, 8H, 2D, High Card, percentage: 27.82%
-JD, 8S, 6C, 6H, 2D, One Pair, percentage: 69.91%
-JH, 10C, 8S, 5S, 4D, High Card, percentage: 27.62%
-AH, 8H, 6C, 4C, 2S, High Card, percentage: 27.43%
-KC, 10S, 8C, 6S, 6C, One Pair, percentage: 70.18%
-10S, 7C, 4H, 3H, 3C, One Pair, percentage: 69.57%
-AS, 8S, 3C, 3D, 2C, One Pair, percentage: 68.97%
-JD, 7H, 6D, 4S, 3D, High Card, percentage: 27.24%
-10S, 6S, 6C, 4D, 2C, One Pair, percentage: 68.38%
-AC, KD, 6D, 2D, 2S, One Pair, percentage: 68.64%
-QS, 9D, 5D, 3H, 2H, High Card, percentage: 27.05%
-9C, 7C, 6D, 5C, 3D, High Card, percentage: 26.87%
-KD, KS, JD, 9H, 2C, One Pair, percentage: 68.07%
-KD, QH, QS, 8D, 8S, Two Pair, percentage: 100.0%
-10H, 7H, 6C, 4D, 2D, High Card, percentage: 26.69%
-9D, 8C, 6H, 6D, 4H, One Pair, percentage: 68.33%
-KH, 6C, 6D, 2S, 2D, Two Pair, percentage: 100.0%
-KD, 8C, 5C, 4H, 2D, High Card, percentage: 26.51%
-AD, 8D, 7C, 7H, 5C, One Pair, percentage: 68.6%
-AC, QS, 9C, 8S, 2D, High Card, percentage: 26.33%
-JS, 9D, 7S, 6S, 3D, High Card, percentage: 26.16%
-AC, 9H, 4S, 4H, 3H, One Pair, percentage: 68.85%
-AS, KS, 9C, 8S, 4D, High Card, percentage: 26.64%
-QS, 7D, 7S, 6H, 6S, Two Pair, percentage: 100.0%
-QH, QC, 9H, 8C, 2C, One Pair, percentage: 68.29%
-7S, 6S, 6H, 6D, 2C, Two Pair, percentage: 100.0%
-QH, 7H, 5H, 4C, 4D, One Pair, percentage: 67.74%
-JS, 9C, 8C, 7S, 4D, High Card, percentage: 27.12%
-AH, JS, 8C, 7S, 3S, High Card, percentage: 27.6%
-8C, 7H, 7C, 3S, 2C, One Pair, percentage: 68.0%
-7D, 5D, 4H, 2D, 2S, One Pair, percentage: 67.46%
-AD, 9S, 9D, 6S, 6D, Two Pair, percentage: 100.0%
-AS, QD, 7C, 4C, 2C, High Card, percentage: 28.06%
-KS, QH, 9D, 8C, 4S, High Card, percentage: 27.88%
-AC, QH, QS, 5S, 2C, One Pair, percentage: 66.93%
-10C, 7C, 5S, 4H, 3S, High Card, percentage: 27.71%
-QH, 10S, 8S, 8C, 5D, One Pair, percentage: 67.19%
-JD, 10S, 8D, 7C, 2H, High Card, percentage: 27.53%
-KS, QD, 8H, 3H, 2C, High Card, percentage: 27.36%
-AH, 6H, 3S, 2C, 2D, One Pair, percentage: 67.44%
-KH, KS, 4D, 3H, 2D, One Pair, percentage: 67.69%
-AD, AH, KH, QD, 8D, One Pair, percentage: 67.94%
-KS, 10C, 8D, 7C, 6D, High Card, percentage: 27.81%
-KS, QD, 10S, 6C, 5H, High Card, percentage: 27.64%
-10D, 10C, 8D, 7S, 2C, One Pair, percentage: 67.42%
-10H, 10C, 7H, 4H, 2D, One Pair, percentage: 66.92%
-KH, JS, 9D, 9C, 5H, One Pair, percentage: 66.42%
-AH, QH, JD, 8S, 4S, High Card, percentage: 28.09%
-KC, 6S, 5C, 4H, 4S, One Pair, percentage: 66.67%
-9D, 8S, 7D, 3C, 2H, High Card, percentage: 27.91%
-KC, QC, 10S, 8H, 2H, High Card, percentage: 27.74%
-JC, JD, 9H, 6H, 5D, One Pair, percentage: 66.18%
-10D, 10C, 6S, 4H, 2C, One Pair, percentage: 66.42%
-AC, JC, 10S, 7S, 4C, High Card, percentage: 28.18%
-QS, 9C, 7S, 5S, 2D, High Card, percentage: 28.01%
-QD, JC, 8S, 5H, 2C, High Card, percentage: 27.84%
-QS, 9C, 7H, 6H, 3H, High Card, percentage: 28.27%
-AC, 10S, 4H, 3C, 2D, High Card, percentage: 28.7%
-KH, JC, 5H, 4S, 3H, High Card, percentage: 28.53%
-JC, JD, 9C, 7C, 4C, One Pair, percentage: 65.94%
-KD, 9D, 7H, 5S, 3C, High Card, percentage: 28.95%
-KH, 6S, 5D, 3D, 2S, High Card, percentage: 29.36%
-QS, JH, 6H, 4S, 2C, High Card, percentage: 29.77%
-AD, 10C, 9C, 6H, 5C, High Card, percentage: 29.6%
-KC, JS, 6H, 4D, 2H, High Card, percentage: 29.43%
-10D, 8H, 7H, 7C, 2S, One Pair, percentage: 65.47%
-KS, KD, JC, 5S, 2H, One Pair, percentage: 65.71%
-9S, 8C, 7S, 5C, 2S, High Card, percentage: 29.26%
-KS, JD, 10H, 4C, 3H, High Card, percentage: 29.1%
-KC, 5S, 4S, 3S, 2H, High Card, percentage: 28.93%
-AH, 10C, 7S, 4S, 4H, One Pair, percentage: 65.96%
-8D, 8H, 7D, 3H, 2C, One Pair, percentage: 66.2%
-QD, JC, 4D, 2C, 2D, One Pair, percentage: 65.73%
-JD, 9C, 8C, 7H, 2S, High Card, percentage: 28.77%
-KH, JH, JC, 10D, 6H, One Pair, percentage: 65.97%
-KH, QS, JD, 10S, 2S, High Card, percentage: 28.61%
-AC, 10C, 6S, 4C, 3C, High Card, percentage: 28.45%
-KD, 9C, 9H, 8C, 2C, One Pair, percentage: 66.21%
-KH, QD, 10D, 9C, 2D, High Card, percentage: 28.3%
-QS, QH, 8C, 5D, 2C, One Pair, percentage: 66.44%
-KH, 6S, 6H, 3H, 2H, One Pair, percentage: 66.67%
-KH, 9H, 9D, 8D, 2H, One Pair, percentage: 66.22%
-10S, 9S, 5C, 5S, 3H, One Pair, percentage: 66.44%
-AH, JC, 8S, 3S, 2H, High Card, percentage: 28.69%
-KS, QH, JD, JS, 9C, One Pair, percentage: 66.67%
-8D, 6C, 5S, 5D, 2C, One Pair, percentage: 66.89%
-QD, 10D, 7S, 6C, 3S, High Card, percentage: 28.53%
-KH, JC, 9C, 5C, 2C, High Card, percentage: 28.38%
-QH, JD, 9D, 8C, 5H, High Card, percentage: 28.23%
-JS, JC, 10D, 5D, 3D, One Pair, percentage: 67.11%
-AD, KH, 9D, 6H, 2D, High Card, percentage: 28.61%
-9C, 8D, 6C, 5S, 3C, High Card, percentage: 28.46%
-AD, 10D, 5C, 3C, 3S, One Pair, percentage: 67.32%
-KS, JH, 9C, 8S, 2H, High Card, percentage: 28.31%
-QC, QS, 10D, 8S, 2C, One Pair, percentage: 67.53%
-KC, QC, 7S, 7C, 3S, One Pair, percentage: 67.1%
-10C, 8C, 7S, 6D, 5C, High Card, percentage: 28.16%
-AH, QS, QC, 9C, 4C, One Pair, percentage: 67.31%
-AD, 10H, 8S, 8C, 8D, Two Pair, percentage: 100.0%
-9D, 7H, 7C, 3H, 3D, Two Pair, percentage: 100.0%
-QD, 10H, 6C, 6S, 3D, One Pair, percentage: 67.52%
-KC, 9S, 8D, 4C, 2D, High Card, percentage: 28.01%
-QS, 8H, 5H, 3C, 2S, High Card, percentage: 27.86%
-10S, 9S, 9D, 6H, 5D, One Pair, percentage: 67.72%
-JD, JC, 10S, 6C, 2S, One Pair, percentage: 67.92%
-KH, JH, JS, 8S, 2S, One Pair, percentage: 68.12%
-10D, 9D, 8H, 3D, 3C, One Pair, percentage: 67.7%
-QC, 9C, 7D, 7S, 4S, One Pair, percentage: 67.9%
-QC, 9S, 8C, 7H, 5C, High Card, percentage: 28.24%
-AS, KC, KS, QH, 6H, One Pair, percentage: 68.1%
-8H, 4H, 3D, 3H, 2D, One Pair, percentage: 67.68%
-JS, 10H, 9H, 6D, 3D, High Card, percentage: 28.09%
-KC, JH, 9H, 8H, 2D, High Card, percentage: 27.95%
-KS, QH, 8C, 8D, 8S, Two Pair, percentage: 100.0%
-QS, QD, 10S, 8S, 6C, One Pair, percentage: 67.88%
-KS, 7C, 6S, 3H, 2C, High Card, percentage: 28.32%
-KC, JS, 10C, 3D, 2H, High Card, percentage: 28.17%
-AD, JD, 4H, 2C, 2D, One Pair, percentage: 68.07%
-QH, 10H, 7S, 6H, 5D, High Card, percentage: 28.03%
-KH, 10S, 9C, 5C, 4C, High Card, percentage: 27.89%
-AD, QS, 10C, 8H, 4C, High Card, percentage: 28.25%
-QD, 10C, 7D, 7S, 3S, One Pair, percentage: 68.26%
-QH, QD, 6H, 4D, 2C, One Pair, percentage: 68.45%
-AS, 10D, 9S, 4H, 4D, One Pair, percentage: 68.64%
-JH, 10C, 7H, 6H, 3S, High Card, percentage: 28.11%
-JD, JC, 8C, 5C, 3H, One Pair, percentage: 68.82%
-AS, KH, KC, 5S, 3S, One Pair, percentage: 68.42%
-AH, 9D, 7D, 6D, 3S, High Card, percentage: 28.47%
-AS, QS, 6C, 5C, 2H, High Card, percentage: 28.82%
-KS, JC, 10C, 9D, 6C, High Card, percentage: 28.68%
-AS, 10D, 9H, 4H, 3H, High Card, percentage: 28.54%
-AS, KC, KS, 9D, 2H, One Pair, percentage: 68.6%
-KC, KH, QD, 7D, 2D, One Pair, percentage: 68.79%
-KS, QS, 9H, 9S, 8H, One Pair, percentage: 68.97%
-KS, JH, 9S, 7H, 4H, High Card, percentage: 28.4%
-QD, QS, 9S, 8C, 6S, One Pair, percentage: 68.57%
-AS, JD, 6C, 3D, 2D, High Card, percentage: 28.26%
-QS, 8D, 5C, 4S, 3S, High Card, percentage: 28.61%
-KS, QS, JH, 5S, 5C, One Pair, percentage: 68.75%
-AS, AD, JD, 10D, 4H, One Pair, percentage: 68.93%
-QC, JS, 4S, 3C, 2C, High Card, percentage: 28.47%
-QH, QS, 6C, 5S, 3C, One Pair, percentage: 68.54%
-AC, QS, QC, 10H, 7C, One Pair, percentage: 68.72%
-QC, 5S, 5C, 4H, 2C, One Pair, percentage: 68.89%
-AS, 10S, 9S, 6S, 5C, High Card, percentage: 28.33%
-QD, 6S, 6D, 4C, 3H, One Pair, percentage: 68.51%
-QC, JD, 8H, 6S, 5H, High Card, percentage: 28.2%
-JS, JH, 8D, 5C, 3S, One Pair, percentage: 68.68%
-JS, 10D, 9C, 6H, 5C, High Card, percentage: 28.07%
-KH, 7H, 6D, 3C, 3H, One Pair, percentage: 68.85%
-AC, KH, 10H, 7H, 4D, High Card, percentage: 27.93%
-AD, KD, 9H, 9C, 7D, One Pair, percentage: 69.02%
-AD, QH, 8H, 6D, 5C, High Card, percentage: 27.8%
-QH, 10D, 10H, 9H, 3S, One Pair, percentage: 69.19%
-AD, JC, 8C, 6S, 5H, High Card, percentage: 27.67%
-QS, JS, 10S, 9S, 7C, High Card, percentage: 27.55%
-AS, AH, AC, 7H, 4C, Two Pair, percentage: 96.55%
-AC, KS, QC, 6D, 3C, High Card, percentage: 27.42%
-KS, 10S, 7D, 5D, 4D, High Card, percentage: 27.75%
-KD, QH, 9H, 9C, 3D, One Pair, percentage: 69.35%
-10C, 6H, 6S, 3C, 2H, One Pair, percentage: 68.98%
-10H, 9H, 8S, 6D, 6C, One Pair, percentage: 68.62%
-KC, 10H, 8D, 2H, 2D, One Pair, percentage: 68.78%
-AH, 10D, 8S, 6D, 4C, High Card, percentage: 27.63%
-KH, KD, KS, 6C, 4D, Two Pair, percentage: 96.67%
-7H, 7D, 6D, 3D, 2H, One Pair, percentage: 68.42%
-KH, 8H, 8C, 5D, 2C, One Pair, percentage: 68.59%
-8S, 7S, 5H, 5C, 4C, One Pair, percentage: 68.23%
-JD, 9H, 8D, 7C, 4S, High Card, percentage: 27.95%
-7H, 7D, 3H, 3C, 2H, Two Pair, percentage: 96.77%
-JS, 8H, 7H, 7S, 6D, One Pair, percentage: 68.39%
-AD, 10H, 5D, 4H, 3S, High Card, percentage: 27.83%
-AH, 10D, 9S, 8D, 3D, High Card, percentage: 28.15%
-QD, 10S, 3D, 2S, 2C, One Pair, percentage: 68.04%
-10S, 8C, 7D, 5H, 5D, One Pair, percentage: 67.69%
-AD, AC, 7D, 6D, 5C, One Pair, percentage: 67.86%
-KC, JH, 10H, 9H, 7D, High Card, percentage: 28.03%
-KS, QD, JC, 9C, 7H, High Card, percentage: 27.9%
-AD, QD, 7D, 3C, 2D, High Card, percentage: 27.78%
-AD, 10C, 8H, 6C, 5D, High Card, percentage: 27.65%
-AC, KS, QS, 8S, 3C, High Card, percentage: 27.97%
-AS, QS, JH, 10S, 2S, High Card, percentage: 27.85%
-QD, 10H, 10D, 8D, 6S, One Pair, percentage: 67.51%
-AC, QS, 10C, 4C, 2C, High Card, percentage: 28.17%
-AD, KC, QS, 7C, 2C, High Card, percentage: 28.04%
-JS, 10S, 8S, 3S, 3D, One Pair, percentage: 67.17%
-KH, 8C, 7S, 3S, 2C, High Card, percentage: 27.92%
-9C, 6D, 5H, 4S, 2S, High Card, percentage: 27.8%
-AC, KH, QD, 9S, 2H, High Card, percentage: 28.11%
-10D, 9S, 5C, 4H, 2S, High Card, percentage: 27.99%
-KH, JD, 9C, 6D, 4D, High Card, percentage: 28.3%
-QC, JH, 8D, 5H, 5D, One Pair, percentage: 66.83%
-KC, QS, JC, 8S, 5H, High Card, percentage: 28.6%
-AH, 8C, 8D, 7D, 5S, One Pair, percentage: 67.0%
-QS, QC, JS, 6S, 4H, One Pair, percentage: 67.16%
-KH, 9H, 8H, 7S, 6C, High Card, percentage: 28.48%
-AH, 9H, 8D, 6D, 4C, High Card, percentage: 28.36%
-AS, 10D, 10C, 7S, 5C, One Pair, percentage: 67.33%
-KH, 10H, 4D, 4S, 2C, One Pair, percentage: 67.49%
-QD, 9D, 5C, 4S, 2D, High Card, percentage: 28.24%
-10S, 7C, 6H, 5D, 2S, High Card, percentage: 28.12%
-AC, QH, 9D, 5C, 3C, High Card, percentage: 28.01%
-QC, JS, 10C, 8D, 2C, High Card, percentage: 27.89%
-KC, QH, 9S, 5H, 4D, High Card, percentage: 27.78%
-KS, JS, 8S, 4D, 3H, High Card, percentage: 27.66%
-KH, QC, 10S, 7H, 3H, High Card, percentage: 27.55%
-KS, KD, JH, 6D, 3D, One Pair, percentage: 67.16%
-AD, QC, 9D, 5C, 5D, One Pair, percentage: 67.32%
-JD, 10H, 9C, 5C, 2H, High Card, percentage: 27.44%
-AH, 10S, 8H, 2H, 2S, One Pair, percentage: 67.48%
-AS, JS, 4H, 3C, 2S, High Card, percentage: 27.33%
-QD, JD, 10S, 7C, 6S, High Card, percentage: 27.62%
-AC, 10D, 6H, 3H, 3D, One Pair, percentage: 67.63%
-KD, QS, JS, 10H, 3C, High Card, percentage: 27.51%
-KS, KD, QC, 8D, 5C, One Pair, percentage: 67.79%
-QS, 10H, 8C, 6D, 4H, High Card, percentage: 27.4%
-AS, AC, JC, 9S, 7S, One Pair, percentage: 67.94%
-KD, JH, 7C, 5C, 2C, High Card, percentage: 27.69%
-KH, KC, 10H, 3C, 2D, One Pair, percentage: 67.62%
-KD, QH, JC, 8D, 4S, High Card, percentage: 27.58%
-AC, JD, 9H, 6S, 3C, High Card, percentage: 27.87%
-KH, QC, QS, 6H, 2D, One Pair, percentage: 67.77%
-KD, 10D, 8C, 6D, 4H, High Card, percentage: 27.76%
-JH, 8C, 7H, 5D, 4S, High Card, percentage: 27.65%
-QS, 10H, 9H, 4S, 3H, High Card, percentage: 27.54%
-AH, 7S, 4D, 4H, 3D, One Pair, percentage: 67.45%
-QS, JC, 10C, 10D, 6C, One Pair, percentage: 67.14%
+HAND, RANK, Percentage
+AS, QD, 7D, 4D, 2C, High Card, 0.0%
+10S, 9S, 8S, 6D, 2D, High Card, 0.0%
+AD, QS, 10D, 3D, 2C, High Card, 0.0%
+JC, 6H, 5D, 2H, 2D, One Pair, 0.0%
+JC, JH, 10H, 7C, 2D, One Pair, 0.0%
+AD, QH, 8S, 8H, 4H, One Pair, 0.0%
+AC, QC, 10D, 4S, 3H, High Card, 0.0%
+10H, 8S, 7C, 5H, 3D, High Card, 0.0%
+JS, 10H, 9H, 6S, 3C, High Card, 0.0%
+JC, 9H, 9S, 8D, 6D, One Pair, 0.0%
+AD, KS, JS, 6C, 2D, High Card, 0.0%
+JH, 9H, 9C, 5H, 3H, One Pair, 0.0%
+QS, 8D, 7C, 5D, 4D, High Card, 0.0%
+10H, 9S, 8C, 8D, 6C, One Pair, 0.0%
+QS, 6D, 5S, 3C, 2S, High Card, 0.0%
+AD, 8C, 8H, 6S, 5C, One Pair, 14.29%
+8D, 8S, 7C, 6H, 5C, One Pair, 12.5%
+AS, KH, 10S, 9C, 3H, High Card, 0.0%
+KH, 6S, 6H, 5H, 4H, One Pair, 11.11%
+AC, KH, 7H, 6C, 3S, High Card, 0.0%
+AH, JD, 10D, 8C, 6C, High Card, 0.0%
+JC, 10D, 9S, 8S, 7D, Straight, 100.0%
+AC, 9C, 3S, 2D, 2C, One Pair, 10.0%
+AD, KS, 7H, 6D, 2S, High Card, 0.0%
+KS, JC, 6D, 4S, 4H, One Pair, 9.09%
+QS, QH, 9H, 9C, 3H, Two Pair, 100.0%
+QC, JH, JD, 4H, 3S, One Pair, 8.33%
+JH, 5S, 3D, 3C, 2S, One Pair, 7.69%
+JH, 9C, 6S, 4H, 2D, High Card, 0.0%
+KD, 7S, 6H, 6D, 3D, One Pair, 7.14%
+KD, 10H, 8C, 4H, 3H, High Card, 0.0%
+AS, JH, 4C, 4D, 2S, One Pair, 13.33%
+JD, 10H, 8S, 3D, 2D, High Card, 0.0%
+10S, 8C, 6C, 5S, 3H, High Card, 0.0%
+KH, KS, QD, JH, 8H, One Pair, 18.75%
+AD, JC, 8H, 7H, 5D, High Card, 0.0%
+QC, JH, 10S, 6S, 3C, High Card, 0.0%
+AS, 9D, 7C, 6D, 4C, High Card, 0.0%
+AH, JC, 10D, 7H, 5C, High Card, 0.0%
+JH, 7S, 6C, 4S, 3H, High Card, 0.0%
+JH, 7S, 7H, 4H, 3S, One Pair, 17.65%
+9C, 6C, 6H, 5H, 2D, One Pair, 16.67%
+8D, 7C, 7S, 4D, 2H, One Pair, 15.79%
+8H, 7D, 4C, 2D, 2H, One Pair, 15.0%
+QH, JD, 5S, 3D, 2C, High Card, 0.0%
+AS, QD, QS, 10C, 3D, One Pair, 14.29%
+JD, 8D, 7D, 5C, 4H, High Card, 0.0%
+AH, 10C, 5C, 3C, 2H, High Card, 0.0%
+7C, 5H, 4S, 3D, 2C, High Card, 0.0%
+KH, 10C, 9C, 5C, 4H, High Card, 0.0%
+AC, QD, QH, QS, 7S, Three of a Kind, 100.0%
+QH, 9C, 7C, 3D, 2S, High Card, 0.0%
+KD, 9S, 8D, 5S, 3S, High Card, 0.0%
+AD, QH, 7S, 4H, 3D, High Card, 0.0%
+KC, JS, 8S, 4S, 3S, High Card, 0.0%
+AS, 10D, 9C, 5H, 2C, High Card, 0.0%
+QS, QH, JS, 10H, 6H, One Pair, 18.18%
+KD, JC, 10H, 9H, 7H, High Card, 0.0%
+QH, 9D, 6D, 6C, 3D, One Pair, 21.74%
+AH, 10S, 6H, 6C, 3S, One Pair, 20.83%
+AH, KC, 10S, 9D, 3C, High Card, 0.0%
+AD, KH, QH, 7D, 7H, One Pair, 24.0%
+AS, AD, 8C, 3H, 2H, One Pair, 23.08%
+KC, QC, 9S, 8D, 5C, High Card, 0.0%
+AH, QC, 9S, 5H, 5D, One Pair, 22.22%
+AD, JC, 7C, 5S, 2D, High Card, 0.0%
+AS, JS, 8H, 6H, 2S, High Card, 0.0%
+JH, 10D, 4C, 2C, 2D, One Pair, 21.43%
+AD, QH, JH, 4C, 3H, High Card, 2.63%
+KH, 6S, 3S, 2S, 2D, One Pair, 24.14%
+JS, 9D, 6D, 4C, 2D, High Card, 2.56%
+QD, 9C, 9D, 7S, 5D, One Pair, 23.33%
+KC, KD, 8H, 6D, 5S, One Pair, 22.58%
+KS, JC, 7C, 4D, 3H, High Card, 2.5%
+KD, 9D, 8H, 8S, 5D, One Pair, 21.88%
+QD, 9C, 6D, 6H, 4C, One Pair, 21.21%
+KD, QD, QS, 9H, 6H, One Pair, 20.59%
+QC, JH, 10D, 7H, 3C, High Card, 2.44%
+AS, QC, 10H, 9S, 4S, High Card, 2.38%
+7S, 6S, 5H, 3H, 2H, High Card, 2.33%
+QS, 10D, 9H, 7C, 4S, High Card, 2.27%
+JS, 7C, 4C, 3C, 2S, High Card, 2.22%
+AC, KH, JD, 5D, 2C, High Card, 2.17%
+QH, JD, 10D, 10C, 7H, One Pair, 20.0%
+9C, 8H, 7H, 5C, 2S, High Card, 2.13%
+10C, 10D, 3S, 2H, 2D, Two Pair, 100.0%
+KH, 9S, 8H, 6H, 6S, One Pair, 19.44%
+KS, JH, 8S, 7C, 6D, High Card, 2.08%
+QH, QD, 4C, 2H, 2C, Two Pair, 100.0%
+AD, AC, 10S, 6S, 5S, One Pair, 21.62%
+KH, QS, JS, 6S, 5C, High Card, 2.04%
+QD, JC, 5D, 4S, 3C, High Card, 2.0%
+JS, 5S, 4D, 3H, 2H, High Card, 1.96%
+QD, 9C, 6S, 3C, 2S, High Card, 1.92%
+AS, JD, 10C, 8C, 5H, High Card, 1.89%
+KH, JD, 9S, 7D, 5H, High Card, 1.85%
+KH, JC, JD, 7H, 3H, One Pair, 21.05%
+AC, QS, QH, 6D, 3D, One Pair, 20.51%
+AS, QH, 10S, 3D, 2D, High Card, 1.82%
+QS, QD, 10H, 9C, 7S, One Pair, 20.0%
+JS, 10C, 4H, 4D, 2S, One Pair, 19.51%
+KS, QH, JD, 6D, 6H, One Pair, 19.05%
+KH, 6C, 6D, 4D, 4S, Two Pair, 100.0%
+8C, 7C, 4H, 3D, 2D, High Card, 1.79%
+AC, KS, QC, 7D, 4H, High Card, 1.75%
+10H, 9H, 8D, 6S, 5D, High Card, 1.72%
+AD, QC, QH, 8D, 8S, Two Pair, 100.0%
+QD, 10S, 9C, 4C, 3C, High Card, 1.69%
+9S, 6H, 5C, 2S, 2D, One Pair, 18.6%
+KD, 8C, 6H, 6C, 3S, One Pair, 18.18%
+QS, 9S, 5S, 5D, 3C, One Pair, 17.78%
+AD, KD, KC, 9S, 4D, One Pair, 19.57%
+8D, 5D, 3C, 2S, 2C, One Pair, 19.15%
+AH, QH, JS, 8D, 4C, High Card, 1.67%
+QS, 9S, 9D, 6D, 2C, One Pair, 18.75%
+AH, 9C, 8S, 4H, 4S, One Pair, 20.41%
+10S, 8S, 7D, 6D, 6C, One Pair, 20.0%
+AD, QD, 7C, 7H, 6C, One Pair, 21.57%
+AD, QH, JC, 7H, 3H, High Card, 1.64%
+AH, KC, QC, JS, 2C, High Card, 1.61%
+AD, AS, 5D, 2H, 2C, Two Pair, 100.0%
+KD, 8H, 6S, 5S, 5C, One Pair, 23.08%
+QC, 9H, 7S, 2D, 2S, One Pair, 22.64%
+JS, JC, 10S, 6H, 2C, One Pair, 24.07%
+9S, 9H, 7S, 3H, 2D, One Pair, 23.64%
+AD, JH, 9C, 6D, 3S, High Card, 1.59%
+KS, 9S, 7C, 6C, 4H, High Card, 1.56%
+KD, QH, 9C, 6C, 2C, High Card, 1.54%
+AS, JD, 7S, 5C, 4D, High Card, 1.52%
+KH, JD, 9C, 4D, 3H, High Card, 1.49%
+QD, 10C, 8S, 3D, 2C, High Card, 1.47%
+9H, 6D, 6C, 4D, 4C, Two Pair, 100.0%
+AS, 10C, 9C, 8D, 5S, High Card, 1.45%
+JD, 10D, 9S, 7H, 2S, High Card, 1.43%
+AD, AS, 7D, 4S, 3S, One Pair, 23.21%
+JC, 7C, 7D, 4S, 2S, One Pair, 22.81%
+QH, 9C, 8D, 6H, 6S, One Pair, 22.41%
+AC, KS, QD, 7D, 3H, High Card, 1.41%
+KH, JC, JH, 7H, 4H, One Pair, 22.03%
+9S, 8S, 6S, 5S, 4S, Flush, 100.0%
+KH, QH, 9H, 3S, 2C, High Card, 1.39%
+KC, JC, 9C, 8H, 7D, High Card, 1.37%
+AH, KC, QD, 6C, 4D, High Card, 1.35%
+JD, 8H, 4S, 3C, 2S, High Card, 1.33%
+AD, KS, 7D, 3S, 2C, High Card, 1.32%
+KD, 8S, 4C, 3D, 2D, High Card, 1.3%
+AS, QS, JH, 10C, 4S, High Card, 1.28%
+9C, 8S, 6D, 5H, 4D, High Card, 1.27%
+7C, 7S, 5C, 4D, 2C, One Pair, 21.67%
+AC, QC, 9D, 6S, 3S, High Card, 1.25%
+QD, 9H, 8C, 6S, 5S, High Card, 1.23%
+10H, 10D, 6C, 4S, 2C, One Pair, 21.31%
+KC, KS, 9C, 8H, 6D, One Pair, 22.58%
+9S, 8D, 6D, 3H, 3C, One Pair, 22.22%
+KD, QD, 8H, 3C, 2D, High Card, 1.22%
+QD, 8D, 7C, 4H, 4D, One Pair, 21.88%
+AD, QD, 8D, 4C, 2H, High Card, 1.2%
+AC, KC, 7C, 7D, 2C, One Pair, 21.54%
+JD, 10S, 8D, 4C, 2D, High Card, 1.19%
+AC, 8D, 8S, 5C, 3D, One Pair, 22.73%
+AS, 9S, 7C, 7S, 5H, One Pair, 23.88%
+AD, QC, 8D, 4D, 2D, High Card, 2.35%
+QH, JD, 10S, 6C, 4S, High Card, 2.33%
+AC, 8S, 8D, 6C, 2H, One Pair, 23.53%
+KS, 10C, 9D, 7C, 2D, High Card, 2.3%
+10S, 9D, 9S, 8C, 4D, One Pair, 23.19%
+QS, JC, JH, 8H, 8D, Two Pair, 100.0%
+AH, KH, QH, 8S, 3C, High Card, 2.27%
+KS, JH, 9D, 8D, 2D, High Card, 2.25%
+KH, QD, QS, 6S, 4D, One Pair, 22.86%
+JD, JC, JS, 7D, 2D, Three of a Kind, 50.0%
+KC, 10H, 9S, 8D, 5S, High Card, 2.22%
+10H, 7H, 6H, 3C, 2H, High Card, 2.2%
+KS, QH, JD, 8S, 7D, High Card, 2.17%
+QH, QC, 10C, 9D, 7H, One Pair, 22.54%
+AS, QD, 9H, 3C, 3D, One Pair, 22.22%
+QH, QS, 7S, 7H, 4D, Two Pair, 100.0%
+KC, QD, JD, 9H, 2H, High Card, 2.15%
+10D, 9H, 6S, 4H, 3H, High Card, 2.13%
+10H, 7C, 6S, 4D, 2H, High Card, 2.11%
+AC, 10C, 6S, 2H, 2D, One Pair, 23.29%
+QS, 9S, 8H, 7D, 4H, High Card, 2.08%
+KS, QC, 10H, 8S, 6D, High Card, 2.06%
+KC, QH, 10S, 9D, 2C, High Card, 2.04%
+QS, 10D, 10S, 6C, 4C, One Pair, 22.97%
+10D, 9C, 4S, 3H, 2H, High Card, 2.02%
+AD, KS, QS, 7H, 2D, High Card, 2.0%
+QD, 10S, 9S, 6D, 5C, High Card, 1.98%
+KC, QH, 7S, 6H, 3H, High Card, 1.96%
+QD, 8D, 8S, 7D, 3H, One Pair, 22.67%
+AH, AD, KC, 9H, 3H, One Pair, 22.37%
+JC, 9C, 9H, 9S, 2S, Three of a Kind, 66.67%
+8D, 7D, 5S, 4H, 3S, High Card, 1.94%
+JH, 8D, 5S, 4C, 4S, One Pair, 22.08%
+9S, 7S, 7D, 4D, 2D, One Pair, 21.79%
+KH, KS, QC, QH, 2S, Two Pair, 100.0%
+AH, 9S, 8D, 3C, 2C, High Card, 1.92%
+AS, QC, 6D, 3S, 2D, High Card, 1.9%
+AS, 10S, 9C, 5D, 2S, High Card, 1.89%
+QC, QH, 9H, 7C, 5S, One Pair, 21.52%
+JD, 6D, 5C, 4H, 3H, High Card, 1.87%
+AC, 10S, 9S, 7C, 6C, High Card, 1.85%
+AC, JD, 9H, 7H, 2S, High Card, 1.83%
+KH, JD, JS, 6D, 5D, One Pair, 21.25%
+10S, 8S, 8H, 6S, 6H, Two Pair, 100.0%
+9D, 5D, 5C, 4C, 4D, Two Pair, 100.0%
+JH, 9H, 8H, 6C, 2H, High Card, 1.82%
+AH, AD, KC, 9S, 8S, One Pair, 22.22%
+JD, 10H, 9H, 6D, 2D, High Card, 1.8%
+AS, 7S, 6D, 4D, 3H, High Card, 1.79%
+QH, 10S, 6H, 6C, 4D, One Pair, 21.95%
+AH, 7C, 5S, 4S, 3C, High Card, 1.77%
+AS, JH, 7D, 3S, 2C, High Card, 1.75%
+AC, 6C, 5D, 5C, 3C, One Pair, 22.89%
+6C, 4C, 3D, 3S, 3C, Three of a Kind, 75.0%
+AH, 9D, 9S, 5D, 2D, One Pair, 23.81%
+KS, 9S, 9C, 7D, 5D, One Pair, 24.71%
+KD, KH, QH, 8D, 4H, One Pair, 24.42%
+AH, QC, 5C, 4H, 4S, One Pair, 25.29%
+QS, 10H, 10S, 8S, 2H, One Pair, 25.0%
+6C, 5H, 5S, 4S, 3H, One Pair, 24.72%
+10D, 8S, 8H, 3C, 3S, Two Pair, 100.0%
+KC, JD, JH, 4D, 4S, Two Pair, 100.0%
+AC, QH, 10D, 10C, 4D, One Pair, 25.56%
+AS, AD, 9D, 9C, 3S, Two Pair, 100.0%
+AC, KH, QH, 10H, 7C, High Card, 1.74%
+QD, QC, JD, 10H, 5S, One Pair, 25.27%
+AC, KS, 9C, 8S, 2H, High Card, 1.72%
+KS, 9S, 5S, 4H, 3C, High Card, 1.71%
+9H, 7C, 6D, 5S, 3D, High Card, 1.69%
+AD, JC, 8D, 7D, 4D, High Card, 1.68%
+9C, 7D, 3C, 3S, 2D, One Pair, 25.0%
+JH, 10D, 7D, 6D, 2S, High Card, 1.67%
+KH, 4S, 4C, 3H, 3S, Two Pair, 93.75%
+10H, 8S, 7D, 4S, 2S, High Card, 1.65%
+QC, 7H, 7S, 7D, 5S, Three of a Kind, 80.0%
+KH, KC, QS, 9D, 6S, One Pair, 24.73%
+AC, 6D, 5D, 4D, 2S, High Card, 1.64%
+8S, 8H, 5S, 5D, 3S, Two Pair, 88.24%
+JH, 10H, 4C, 4D, 2S, One Pair, 24.47%
+8C, 8D, 7H, 7C, 3D, Two Pair, 83.33%
+QH, QS, 4H, 2S, 2H, Two Pair, 84.21%
+AC, KH, 8H, 7H, 7S, One Pair, 25.26%
+AH, KS, QD, 8S, 2S, High Card, 1.63%
+AC, KS, 8H, 3C, 2S, High Card, 1.61%
+10C, 9S, 9C, 8H, 5S, One Pair, 25.0%
+JC, 10S, 7D, 6S, 6D, One Pair, 24.74%
+AC, KH, 8S, 6S, 4C, High Card, 1.6%
+KS, JH, 10S, 9S, 4C, High Card, 1.59%
+10H, 10D, 9S, 9D, 2H, Two Pair, 85.0%
+KS, JD, 10D, 8D, 8C, One Pair, 24.49%
+10H, 10S, 6D, 4S, 2D, One Pair, 24.24%
+AH, AD, JH, 7D, 5H, One Pair, 25.0%
+10C, 9C, 8S, 7D, 5C, High Card, 1.57%
+JS, 7H, 5H, 5C, 3H, One Pair, 24.75%
+QD, JC, 7D, 5S, 2D, High Card, 1.56%
+JD, 8S, 7S, 7C, 6D, One Pair, 24.51%
+KD, 10C, 8H, 5C, 3H, High Card, 1.55%
+KS, JS, 10D, 7S, 4S, High Card, 1.54%
+JD, JC, 9S, 4D, 3H, One Pair, 24.27%
+AH, JD, 9S, 7S, 4H, High Card, 1.53%
+AH, KS, JD, 4D, 2C, High Card, 1.52%
+QC, 9S, 5S, 4H, 3C, High Card, 1.5%
+QC, 10C, 7S, 4C, 2C, High Card, 1.49%
+QH, 10D, 6S, 5C, 3D, High Card, 1.48%
+KS, 10D, 8S, 8D, 4H, One Pair, 24.04%
+JD, 6S, 5D, 5C, 4C, One Pair, 23.81%
+KS, 7D, 7C, 6S, 4H, One Pair, 23.58%
+AH, QD, QH, 4H, 2S, One Pair, 23.36%
+QS, JD, 10H, 10D, 3C, One Pair, 23.15%
+AS, 10S, 4D, 3D, 2S, High Card, 1.47%
+9H, 9S, 8S, 6C, 5S, One Pair, 23.85%
+AD, AS, KC, 4C, 2H, One Pair, 24.55%
+KD, JH, 8H, 7H, 6S, High Card, 1.46%
+KC, QC, JH, 9S, 2D, High Card, 1.45%
+AD, 9S, 9H, 3H, 3S, Two Pair, 85.71%
+AS, KS, KC, 10C, 6C, One Pair, 24.32%
+JH, JD, 8S, 7S, 5C, One Pair, 24.11%
+KC, QD, JC, 5S, 2S, High Card, 1.44%
+AC, QH, QS, 5C, 3D, One Pair, 24.78%
+JD, 8H, 7D, 3H, 2S, High Card, 1.43%
+JC, 9D, 5H, 4H, 2C, High Card, 1.42%
+QS, 9S, 7H, 5C, 5D, One Pair, 25.44%
+AS, QH, 10S, 9H, 9S, One Pair, 26.09%
+AD, KD, QS, 10S, 2C, High Card, 1.41%
+KC, JD, 7S, 5C, 4H, High Card, 1.4%
+AS, 8C, 6D, 5C, 4D, High Card, 1.39%
+KD, QS, 9C, 6D, 4H, High Card, 1.38%
+AS, KD, 8D, 7H, 2D, High Card, 1.37%
+AC, KS, JH, 10H, 6H, High Card, 1.36%
+KH, QS, JS, 10H, 7C, High Card, 1.35%
+8H, 8C, 8S, 6D, 6S, Full House, 100.0%
+AC, QH, 9H, 9S, 6S, One Pair, 25.86%
+AH, KH, 9D, 9S, 7S, One Pair, 25.64%
+AS, 9C, 7S, 3H, 2D, High Card, 1.34%
+7H, 5H, 4S, 3D, 2D, High Card, 1.33%
+AC, AD, 10D, 9D, 3H, One Pair, 26.27%
+KD, QH, 9H, 9C, 5H, One Pair, 26.05%
+AC, JD, 7S, 7D, 4S, One Pair, 25.83%
+AS, JS, 9D, 6S, 2D, High Card, 1.32%
+QH, 10H, 9H, 4C, 2C, High Card, 1.32%
+KH, QC, JS, 8D, 4D, High Card, 1.31%
+8D, 8H, 6D, 5D, 3C, One Pair, 25.62%
+KS, KH, JC, 9C, 2D, One Pair, 25.41%
+KH, JC, 8H, 5D, 2S, High Card, 1.3%
+KD, 7H, 6H, 4S, 2D, High Card, 1.29%
+QS, QC, 9S, 3C, 2D, One Pair, 26.02%
+QD, QS, JC, 4D, 2C, One Pair, 25.81%
+QC, 9C, 6S, 6H, 4D, One Pair, 25.6%
+QD, JS, 10H, 6S, 5H, High Card, 1.28%
+AH, KH, QS, 8C, 2C, High Card, 1.27%
+KS, 10H, 9H, 8D, 4D, High Card, 1.27%
+AD, QC, JS, 10H, 7D, High Card, 1.26%
+AH, JS, 7C, 6S, 5D, High Card, 1.25%
+AD, JH, 10D, 3D, 2H, High Card, 1.24%
+KH, 8C, 6H, 4S, 2C, High Card, 1.23%
+AH, JC, 10C, 9S, 2D, High Card, 1.23%
+AC, QH, 10S, 9D, 2S, High Card, 1.22%
+KD, QD, 9S, 8D, 8S, One Pair, 26.19%
+JH, JD, JC, 9H, 4H, Three of a Kind, 83.33%
+AH, KC, 8D, 7C, 3C, High Card, 1.21%
+AC, 10C, 10H, 8S, 4D, One Pair, 26.77%
+KH, QD, 9S, 4S, 2D, High Card, 1.2%
+QH, JC, 9C, 8C, 7S, High Card, 1.2%
+AH, 7H, 5C, 4C, 4D, One Pair, 27.34%
+9S, 7H, 7S, 6S, 5S, One Pair, 27.13%
+JH, 10C, 8S, 6S, 5H, High Card, 1.19%
+QC, JC, 9S, 7S, 4S, High Card, 1.18%
+AS, QC, 10H, 8D, 4H, High Card, 1.18%
+KC, QH, 4D, 3D, 2H, High Card, 1.17%
+AS, 5C, 5H, 3S, 2D, One Pair, 26.92%
+AC, QS, JS, JD, 8H, One Pair, 26.72%
+QH, QD, 8D, 7H, 6D, One Pair, 26.52%
+9S, 9D, 5D, 4C, 3S, One Pair, 26.32%
+KC, 8D, 3D, 3S, 2D, One Pair, 26.12%
+QD, 9S, 7S, 3C, 2S, High Card, 1.16%
+9H, 8S, 5S, 5H, 3D, One Pair, 25.93%
+KH, QD, 10H, 9D, 3S, High Card, 1.16%
+AC, 7S, 5D, 2C, 2S, One Pair, 26.47%
+KH, QS, 10D, 4H, 2C, High Card, 1.15%
+10S, 10C, 7S, 7H, 5D, Two Pair, 81.82%
+AC, 8C, 4C, 3C, 2S, High Card, 1.14%
+JS, JD, 8H, 5D, 4S, One Pair, 26.28%
+AH, KC, QD, JD, 10C, Straight, 100.0%
+QH, QC, 10S, 9H, 5C, One Pair, 26.81%
+AC, JC, 10H, 9C, 6S, High Card, 1.14%
+AC, QS, JH, 10C, 2H, High Card, 1.13%
+KD, 10S, 8H, 6D, 4S, High Card, 1.12%
+KC, 8D, 6D, 6S, 2S, One Pair, 26.62%
+KS, QH, JS, JC, 8D, One Pair, 26.43%
+KH, JS, 10C, 5D, 4H, High Card, 1.12%
+AS, 10C, 9D, 9C, 5C, One Pair, 26.95%
+AH, JH, 10C, 8C, 3S, High Card, 1.11%
+KC, 10H, 8S, 4D, 2C, High Card, 1.1%
+QD, JD, 9C, 9S, 2D, One Pair, 26.76%
+KS, JH, 9D, 9C, 8D, One Pair, 26.57%
+QD, QS, 9H, 7S, 2C, One Pair, 27.08%
+KD, 9D, 7S, 5C, 3C, High Card, 1.1%
+AH, 9H, 7S, 6D, 2S, High Card, 1.09%
+QD, JC, 10D, 7C, 5H, High Card, 1.09%
+QC, QH, 5S, 3D, 3H, Two Pair, 82.61%
+6H, 3S, 2D, 2H, 2C, Three of a Kind, 85.71%
+KH, QS, QD, 10D, 6S, One Pair, 26.9%
+AC, 8C, 8D, 7H, 2S, One Pair, 26.71%
+JC, 10S, 7S, 7D, 6D, One Pair, 26.53%
+AS, 10H, 10S, 6C, 5C, One Pair, 26.35%
+AH, 9S, 8D, 7S, 5D, High Card, 1.08%
+6D, 5H, 4C, 4S, 2H, One Pair, 26.17%
+AH, AS, KH, QD, 6C, One Pair, 26.67%
+AH, KS, 6D, 5S, 4C, High Card, 1.08%
+AC, AS, 9S, 4H, 3C, One Pair, 27.15%
+JC, 9S, 9C, 7H, 7C, Two Pair, 79.17%
+AC, JC, 8S, 2S, 2D, One Pair, 26.97%
+KD, QH, JH, 4C, 2C, High Card, 1.07%
+AS, AH, QS, 10S, 8S, One Pair, 27.45%
+KS, QD, 7H, 7C, 6H, One Pair, 27.27%
+JS, JD, 8D, 6S, 3C, One Pair, 27.1%
+QH, 9C, 5H, 5S, 2S, One Pair, 27.56%
+QD, 10D, 6C, 3C, 3D, One Pair, 27.39%
+JD, JH, 5D, 5H, 2H, Two Pair, 80.0%
+QC, 9C, 7S, 6D, 6H, One Pair, 27.22%
+KH, 8S, 5S, 2D, 2S, One Pair, 27.04%
+8C, 4C, 4S, 3H, 2D, One Pair, 26.88%
+AD, QC, JH, 10S, 3C, High Card, 1.06%
+AD, 9H, 8H, 7H, 6S, High Card, 1.06%
+KD, 9D, 7H, 4H, 4C, One Pair, 26.71%
+KD, 8S, 5H, 5C, 2H, One Pair, 26.54%
+AS, KH, 10C, 6H, 2S, High Card, 1.05%
+10H, 9C, 5H, 4S, 2S, High Card, 1.05%
+JH, 9C, 9S, 9D, 4D, Three of a Kind, 75.0%
+AC, KH, QC, 6S, 4C, High Card, 1.04%
+KH, JS, JH, 7D, 5D, One Pair, 26.99%
+AH, 7C, 6D, 4D, 3C, High Card, 1.04%
+AC, KH, 9C, 6H, 5S, High Card, 1.03%
+KD, QC, QS, 3C, 2H, One Pair, 26.83%
+KD, JS, 4D, 4C, 2C, One Pair, 26.67%
+QD, 7D, 7C, 6S, 3D, One Pair, 26.51%
+QC, 10D, 8C, 7H, 3S, High Card, 1.03%
+AH, 10D, 6H, 4D, 3C, High Card, 1.02%
+KD, QC, 6S, 6C, 5S, One Pair, 26.35%
+AD, 9S, 8H, 3H, 2S, High Card, 1.02%
+KS, QS, 10S, 7C, 2H, High Card, 1.01%
+AC, QD, 9D, 8S, 5C, High Card, 1.01%
+KD, 10S, 10H, 5S, 4H, One Pair, 26.19%
+AD, KD, QD, QS, 8H, One Pair, 26.04%
+AC, AS, 8C, 7C, 2D, One Pair, 25.88%
+AS, KD, QC, 8H, 6D, High Card, 1.0%
+8C, 7H, 6C, 4H, 4C, One Pair, 25.73%
+AH, 9H, 3H, 3C, 2H, One Pair, 26.16%
+AH, KH, JC, 7S, 4H, High Card, 1.0%
+QC, 9S, 8C, 7S, 2D, High Card, 0.99%
+9S, 7C, 6H, 5C, 2C, High Card, 0.99%
+AD, AC, QD, JH, 3S, One Pair, 26.59%
+KH, QS, 9C, 4C, 3D, High Card, 0.98%
+10D, 7C, 6C, 4C, 4D, One Pair, 26.44%
+QC, QD, 10S, 5H, 3C, One Pair, 26.29%
+JD, 10H, 6D, 3D, 2S, High Card, 0.98%
+QH, 9C, 5H, 4S, 4D, One Pair, 26.14%
+JS, 10D, 6D, 5H, 2S, High Card, 0.97%
+KD, 10H, 7D, 5S, 2D, High Card, 0.97%
+QD, JD, 10C, 9D, 3H, High Card, 0.96%
+10H, 7D, 6C, 4D, 4H, One Pair, 25.99%
+AC, QD, 9D, 8H, 3C, High Card, 0.96%
+AC, QC, 10S, 10D, 4C, One Pair, 26.4%
+AD, KC, 9C, 3H, 2S, High Card, 0.95%
+AC, QC, 10H, 7D, 4C, High Card, 0.95%
+QS, 10D, 8D, 8H, 6D, One Pair, 26.26%
+KC, 8S, 8H, 7D, 4C, One Pair, 26.11%
+QH, JC, 9H, 7H, 5H, High Card, 0.94%
+AH, QH, QS, 5H, 2H, One Pair, 25.97%
+QC, QH, 9D, 8H, 5C, One Pair, 25.82%
+8C, 6D, 4C, 2C, 2S, One Pair, 25.68%
+10D, 7H, 4S, 3C, 3D, One Pair, 25.54%
+KS, QD, QC, 10S, 4S, One Pair, 25.41%
+KH, KC, 6C, 5S, 3S, One Pair, 25.27%
+KD, JC, 10D, 4D, 2H, High Card, 0.94%
+JH, JC, 5H, 4C, 3S, One Pair, 25.13%
+KH, JH, 8H, 5S, 3C, High Card, 0.93%
+QD, 9H, 4C, 3S, 3D, One Pair, 25.0%
+QH, QC, JH, 5C, 3H, One Pair, 25.4%
+KC, QD, 9H, 6S, 3S, High Card, 0.93%
+JS, 8S, 7H, 5S, 2D, High Card, 0.93%
+AD, KC, 10S, 8H, 5S, High Card, 0.92%
+AS, AD, 8D, 3H, 3S, Two Pair, 80.77%
+AD, JS, 6D, 5C, 2S, High Card, 0.92%
+10S, 8H, 5D, 4H, 2D, High Card, 0.91%
+KH, QS, JS, 9D, 2H, High Card, 0.91%
+AD, QS, 8S, 6D, 3C, High Card, 0.9%
+JD, JS, 7C, 4D, 2H, One Pair, 25.26%
+8C, 5S, 3H, 3D, 2S, One Pair, 25.13%
+QC, 7S, 6C, 4C, 2S, High Card, 0.9%
+9H, 8C, 6D, 5D, 3D, High Card, 0.9%
+JC, 8H, 6C, 6H, 2H, One Pair, 25.0%
+AH, 7D, 4H, 3S, 2D, High Card, 0.89%
+9D, 7C, 6S, 6C, 3S, One Pair, 24.87%
+AC, AS, 9D, 5C, 3D, One Pair, 24.74%
+AS, 10D, 9H, 8D, 4D, High Card, 0.89%
+AC, 10D, 10H, 9D, 8D, One Pair, 25.13%
+JC, 10S, 8C, 6H, 6D, One Pair, 25.0%
+KS, QD, JD, 10D, 8S, High Card, 0.88%
+AH, JH, 10C, 5C, 4D, High Card, 0.88%
+KD, QD, JS, 3C, 3H, One Pair, 24.87%
+JH, 10S, 9C, 9D, 7D, One Pair, 24.75%
+9S, 8C, 7C, 4H, 2C, High Card, 0.88%
+8H, 5S, 4D, 4H, 3D, One Pair, 24.62%
+KH, 10H, 10C, 3D, 2S, One Pair, 25.0%
+QH, 8C, 5D, 4H, 2S, High Card, 0.87%
+AS, QS, 7C, 6C, 5H, High Card, 0.87%
+QD, 9D, 6S, 5S, 2H, High Card, 0.87%
+QD, QS, JC, 9D, 6D, One Pair, 25.37%
+AC, AH, KC, 8S, 2H, One Pair, 25.74%
+JS, 9D, 9H, 7D, 3H, One Pair, 25.62%
+KS, 8S, 5S, 3C, 3H, One Pair, 25.49%
+QH, 6D, 6S, 3H, 2S, One Pair, 25.37%
+KH, 8S, 4S, 2C, 2D, One Pair, 25.24%
+10H, 7S, 6C, 5S, 3D, High Card, 0.86%
+10H, 7D, 4D, 4S, 3D, One Pair, 25.12%
+QD, 6S, 3S, 3H, 2D, One Pair, 25.0%
+JC, 10C, 9S, 4H, 4S, One Pair, 25.36%
+KC, JD, 4H, 4D, 2D, One Pair, 25.24%
+AS, JC, 10S, 8H, 6S, High Card, 0.86%
+10S, 10D, 7H, 5S, 4C, One Pair, 25.12%
+AH, QD, 10D, 3H, 3C, One Pair, 25.47%
+JD, 10H, 8H, 6H, 5C, High Card, 0.85%
+AD, JS, 6H, 5D, 4C, High Card, 0.85%
+JC, 10H, 6H, 6S, 3C, One Pair, 25.35%
+KS, 9H, 5C, 5D, 3D, One Pair, 25.23%
+JD, 9S, 6C, 6S, 2C, One Pair, 25.12%
+10D, 7S, 6S, 5S, 3D, High Card, 0.85%
+QC, JS, 8D, 3S, 2S, High Card, 0.84%
+7S, 6C, 4S, 4H, 2C, One Pair, 25.0%
+JD, 10D, 8H, 8D, 6H, One Pair, 24.88%
+9D, 9C, 6D, 3H, 2C, One Pair, 24.77%
+QD, JH, 10C, 7H, 7C, One Pair, 24.66%
+AC, KH, KC, 9C, 7H, One Pair, 25.0%
+AS, KS, QD, 10S, 6H, High Card, 0.84%
+KD, JS, 7H, 5C, 4D, High Card, 0.84%
+AD, KD, JD, 4S, 4H, One Pair, 25.34%
+JS, JC, 9C, 7C, 5S, One Pair, 25.23%
+AD, JD, 10D, 10C, 6S, One Pair, 25.11%
+9S, 5C, 5H, 4C, 3C, One Pair, 25.0%
+KD, KS, 7S, 5S, 2C, One Pair, 24.89%
+AH, KD, 9H, 3D, 2D, High Card, 0.83%
+AS, AD, QD, 8C, 5D, One Pair, 25.22%
+10S, 9D, 8C, 3S, 2D, High Card, 0.83%
+AC, AS, 10D, 5H, 4S, One Pair, 25.55%
+AS, 10H, 9S, 7D, 2S, High Card, 0.83%
+AD, AH, KC, KH, 9D, Two Pair, 81.48%
+AS, JS, 8C, 6H, 3H, High Card, 0.82%
+KS, 10C, 9H, 8C, 7S, High Card, 0.82%
+KS, 10C, 8D, 7S, 2C, High Card, 0.82%
+AD, JD, 10H, 7C, 2S, High Card, 0.81%
+KD, 9H, 8S, 3D, 2S, High Card, 0.81%
+KD, 10H, 10C, 5H, 5S, Two Pair, 82.14%
+AH, JC, 9H, 5S, 4C, High Card, 0.81%
+KD, 8S, 7H, 4D, 2S, High Card, 0.8%
+AS, 8H, 8C, 6C, 4S, One Pair, 25.88%
+QC, 10D, 9S, 6H, 3H, High Card, 0.8%
+KH, QS, JC, 8H, 6D, High Card, 0.8%
+AD, QH, 5C, 4C, 3C, High Card, 0.79%
+AC, 8H, 3S, 2H, 2S, One Pair, 26.2%
+KD, JS, 10D, 9S, 6H, High Card, 0.79%
+9C, 8H, 7D, 5H, 3H, High Card, 0.79%
+KH, QH, JH, 8H, 3D, High Card, 0.78%
+KH, 8C, 7C, 3C, 3D, One Pair, 26.09%
+KD, QC, QH, 8C, 5H, One Pair, 26.41%
+KH, 10H, 9D, 7C, 5S, High Card, 0.78%
+10H, 7D, 5C, 4C, 3H, High Card, 0.78%
+KC, 9S, 7C, 7S, 5S, One Pair, 26.29%
+AD, 9S, 8D, 8H, 5H, One Pair, 26.61%
+10C, 9D, 7S, 4S, 3H, High Card, 0.78%
+JH, 8D, 8H, 4S, 3D, One Pair, 26.5%
+KC, KD, 8S, 8D, 5C, Two Pair, 79.31%
+KD, QD, JC, 8S, 5D, High Card, 0.77%
+KD, 10D, 9D, 7S, 3D, High Card, 0.77%
+QD, 10H, 10D, 10C, 6D, Three of a Kind, 77.78%
+AD, 7H, 6C, 6S, 5C, One Pair, 26.38%
+AS, QC, 9H, 8S, 4H, High Card, 0.77%
+AH, KC, 8C, 6C, 3S, High Card, 0.76%
+AD, JD, 8C, 5C, 3C, High Card, 0.76%
+QS, 10C, 6C, 5D, 3S, High Card, 0.76%
+KC, 10S, 5S, 4S, 2D, High Card, 0.75%
+KS, 9H, 6H, 3C, 2S, High Card, 0.75%
+KH, JH, 10S, 8H, 6C, High Card, 0.75%
+QD, 10S, 8D, 5D, 3D, High Card, 0.75%
+AS, 10D, 6C, 3S, 2H, High Card, 0.74%
+KD, JD, JC, 5D, 4D, One Pair, 26.27%
+JS, 6C, 6S, 5S, 3S, One Pair, 26.58%
+KD, QS, JC, 10C, 5S, High Card, 0.74%
+9D, 9C, 5C, 4H, 2S, One Pair, 26.47%
+AC, 7S, 5H, 5S, 4D, One Pair, 26.36%
+QD, JS, 9S, 3C, 2D, High Card, 0.74%
+QS, JD, 10S, 5H, 3C, High Card, 0.74%
+10D, 9S, 6C, 4S, 2D, High Card, 0.73%
+9C, 8C, 5D, 5S, 2S, One Pair, 26.25%
+JS, 10C, 7C, 6S, 3D, High Card, 0.73%
+KD, JH, 7C, 7S, 4H, One Pair, 26.14%
+AC, 10S, 5D, 5C, 2C, One Pair, 26.45%
+QH, QC, QD, JS, JH, Full House, 100.0%
+AH, 10S, 8S, 7D, 2D, High Card, 0.73%
+AD, QH, 4S, 4D, 2D, One Pair, 26.75%
+AC, 6D, 5S, 4D, 3H, High Card, 0.72%
+AD, 6H, 5D, 2D, 2C, One Pair, 26.64%
+AC, JH, 8H, 7D, 2C, High Card, 0.72%
+10H, 8D, 6D, 5C, 4D, High Card, 0.72%
+KD, JD, 10C, 8H, 5S, High Card, 0.72%
+QD, 9C, 4C, 3H, 3D, One Pair, 26.53%
+9C, 5S, 5C, 4D, 2C, One Pair, 26.42%
+10C, 10S, 7C, 7S, 4S, Two Pair, 80.0%
+QD, QS, 7C, 6D, 2C, One Pair, 26.32%
+8D, 7C, 6D, 5C, 5S, One Pair, 26.21%
+KD, QC, 10S, 8S, 4D, High Card, 0.71%
+KD, 10C, 9C, 8S, 3C, High Card, 0.71%
+AD, QS, 7S, 6C, 4H, High Card, 0.71%
+KC, JD, 8C, 6H, 2H, High Card, 0.71%
+AC, KS, 10S, 4S, 4H, One Pair, 26.51%
+QH, 6C, 5H, 3D, 3S, One Pair, 26.4%
+AC, AS, QH, 8D, 4S, One Pair, 26.29%
+AC, 6C, 5D, 4D, 3D, High Card, 0.7%
+QH, JH, 6H, 3H, 3D, One Pair, 26.19%
+QS, QH, 9H, 8D, 2H, One Pair, 26.09%
+KH, JH, 10D, 6H, 6C, One Pair, 25.98%
+AH, QH, 8D, 4S, 2C, High Card, 0.7%
+10S, 7S, 6C, 6H, 5S, One Pair, 25.88%
+AS, 6S, 4S, 3H, 3C, One Pair, 25.78%
+AS, KD, 10H, 7D, 5D, High Card, 0.7%
+KC, JC, 9H, 9D, 2S, One Pair, 25.68%
+JH, 10H, 8D, 6H, 2D, High Card, 0.7%
+JS, 8H, 7S, 7D, 2S, One Pair, 25.58%
+KD, 10D, 10C, 8D, 6C, One Pair, 25.48%
+9H, 9S, 8H, 7H, 3H, One Pair, 25.38%
+AD, 8H, 3H, 2H, 2C, One Pair, 25.29%
+QD, JC, 5D, 5H, 3D, One Pair, 25.19%
+10C, 9H, 7H, 3D, 2H, High Card, 0.69%
+KC, JC, 5C, 4S, 2S, High Card, 1.04%
+KS, 10H, 8D, 4C, 3H, High Card, 1.03%
+AC, 10C, 9S, 7S, 2S, High Card, 1.03%
+AH, 10S, 8C, 5D, 4C, High Card, 1.03%
+QH, 10H, 6S, 5C, 4D, High Card, 1.02%
+9D, 7H, 5D, 5H, 5C, Three of a Kind, 70.0%
+QC, 9H, 6C, 5C, 4S, High Card, 1.02%
+AD, QC, 6C, 2S, 2D, One Pair, 25.1%
+AH, KC, 10C, 9C, 2D, High Card, 1.02%
+KC, QC, 7D, 6S, 4D, High Card, 1.01%
+QH, JC, 9C, 4C, 3S, High Card, 1.01%
+9H, 7C, 7H, 5D, 3H, One Pair, 25.0%
+AS, AH, 10D, 6S, 4H, One Pair, 25.28%
+AH, KH, QC, 5D, 2D, High Card, 1.01%
+AD, KD, 10D, 5S, 5H, One Pair, 25.56%
+AH, AS, KC, KH, 2H, Two Pair, 80.65%
+JC, 8S, 7S, 6C, 3S, High Card, 1.0%
+AH, 9C, 8D, 6D, 5H, High Card, 1.0%
+KC, QC, 10D, 9D, 7C, High Card, 1.0%
+9D, 8D, 5S, 4H, 3S, High Card, 0.99%
+10C, 9H, 4C, 3H, 3D, One Pair, 25.47%
+AS, 10H, 6S, 4S, 2H, High Card, 0.99%
+KD, KC, 9C, 7S, 2D, One Pair, 25.37%
+QS, JS, 6H, 5C, 3D, High Card, 0.99%
+KS, 10H, 9D, 8S, 6H, High Card, 0.98%
+KS, 10D, 7H, 4H, 2H, High Card, 0.98%
+JC, 5C, 5H, 5D, 2H, Three of a Kind, 72.73%
+QS, 8H, 5C, 4C, 2S, High Card, 0.98%
+JD, 8C, 5D, 3H, 3C, One Pair, 25.28%
+KC, 10S, 9H, 8C, 5S, High Card, 0.97%
+AH, 10H, 9C, 7H, 4D, High Card, 0.97%
+AC, KC, JD, 8C, 5S, High Card, 0.97%
+5H, 5C, 4H, 2C, 2H, Two Pair, 78.12%
+8S, 5S, 5H, 4C, 3D, One Pair, 25.19%
+AH, KD, KS, QS, JC, One Pair, 25.46%
+AD, JD, 6D, 4H, 2S, High Card, 0.96%
+KS, JH, 7C, 6C, 5D, High Card, 0.96%
+KD, 10D, 9C, 8C, 2D, High Card, 0.96%
+AH, QH, 7C, 5D, 3S, High Card, 0.96%
+QS, 9S, 9H, 9C, 6S, Three of a Kind, 75.0%
+AC, 9H, 5S, 3H, 2H, High Card, 0.95%
+AH, KH, 9C, 4D, 2S, High Card, 0.95%
+10H, 8D, 8S, 7H, 5C, One Pair, 25.37%
+AH, QH, 8C, 7H, 2H, High Card, 0.95%
+KD, 10H, 3D, 2S, 2H, One Pair, 25.64%
+QH, JH, 8H, 7C, 2S, High Card, 0.94%
+JS, 8H, 6C, 4C, 2S, High Card, 0.94%
+AC, JH, 6D, 4S, 3D, High Card, 0.94%
+AH, AS, 10C, 8C, 4C, One Pair, 25.91%
+KC, 6C, 5C, 4C, 3H, High Card, 0.93%
+JD, 9S, 7S, 5D, 3C, High Card, 0.93%
+9S, 9H, 8C, 5H, 4D, One Pair, 26.18%
+AH, JC, 10C, 8D, 7S, High Card, 0.93%
+QD, 10D, 8S, 5S, 4H, High Card, 0.93%
+AH, QH, 10C, 4H, 4D, One Pair, 26.45%
+AS, QS, 10H, 6S, 4D, High Card, 0.92%
+AS, 9H, 9S, 8S, 7C, One Pair, 26.35%
+AH, AC, KS, 9H, 8H, One Pair, 26.26%
+AD, KD, 6H, 4D, 3S, High Card, 0.92%
+AS, 8S, 8H, 3S, 2D, One Pair, 26.52%
+JH, 8D, 5H, 4H, 3S, High Card, 0.92%
+AC, QH, 9S, 3C, 2C, High Card, 0.91%
+AS, KC, QH, 6S, 4H, High Card, 0.91%
+AH, AD, 9C, 6S, 4H, One Pair, 26.43%
+10S, 9D, 4C, 3H, 2D, High Card, 0.91%
+QH, JH, 9S, 6C, 2S, High Card, 0.91%
+KC, JD, 7C, 4C, 2S, High Card, 0.9%
+AC, JC, 10D, 4S, 2C, High Card, 0.9%
+AH, QD, 7D, 5H, 3S, High Card, 0.9%
+KD, 10C, 8S, 7S, 6H, High Card, 0.9%
+AH, AS, QS, 4S, 4D, Two Pair, 78.79%
+QD, 9D, 6H, 5D, 2C, High Card, 0.89%
+AS, 9C, 8C, 7D, 6S, High Card, 0.89%
+KC, 8C, 7C, 3D, 3C, One Pair, 26.33%
+10D, 10S, 8D, 6C, 6S, Two Pair, 79.41%
+AH, QH, QC, JC, 2H, One Pair, 26.6%
+QS, 10C, 7S, 6D, 2H, High Card, 0.89%
+KS, JS, 7D, 3D, 2D, High Card, 0.88%
+KS, QD, 9S, 8S, 5C, High Card, 0.88%
+QS, 8D, 7H, 6H, 4H, High Card, 0.88%
+JD, 10H, 7H, 6D, 2H, High Card, 0.88%
+KS, QS, 4S, 4C, 2C, One Pair, 26.86%
+AS, JH, 8C, 8D, 3S, One Pair, 26.76%
+QS, 10H, 7C, 6C, 5C, High Card, 0.87%
+KS, 10H, 9C, 4D, 2D, High Card, 0.87%
+9H, 6C, 4C, 3C, 2D, High Card, 0.87%
+AH, JH, 9H, 6D, 4D, High Card, 0.87%
+KH, KD, KC, KS, 8S, Four of a Kind, 100.0%
+AC, AS, KD, JH, 3S, One Pair, 26.67%
+AS, 10C, 6D, 6C, 5H, One Pair, 26.57%
+JS, 10S, 8D, 7S, 3S, High Card, 0.86%
+AD, QS, JH, 8H, 4C, High Card, 0.86%
+AS, QD, 9S, 5S, 3H, High Card, 0.86%
+10D, 9C, 4C, 2H, 2S, One Pair, 26.48%
+JD, 10H, 4C, 4S, 3S, One Pair, 26.39%
+KH, QH, JD, 7S, 4C, High Card, 0.86%
+AH, 9C, 9H, 7S, 6H, One Pair, 26.64%
+AD, JC, 9H, 7D, 5H, High Card, 0.85%
+KH, JC, JD, 6D, 3D, One Pair, 26.55%
+10S, 8H, 5S, 4D, 2C, High Card, 0.85%
+KH, QH, 8H, 7S, 3H, High Card, 0.85%
+AS, KS, JH, 5S, 2S, High Card, 0.85%
+AD, KH, QC, 8H, 5D, High Card, 0.85%
+QH, 10H, 10D, 8S, 4C, One Pair, 26.46%
+QC, 10D, 8C, 3S, 2C, High Card, 0.84%
+QD, 10S, 7C, 5C, 2H, High Card, 0.84%
+10C, 9C, 8C, 7D, 6H, Straight, 100.0%
+QS, QD, 9C, 6C, 4S, One Pair, 26.37%
+10D, 9D, 8S, 2C, 2S, One Pair, 26.28%
+QC, QS, 10C, 9C, 6S, One Pair, 26.53%
+AS, KS, 9C, 9S, 8H, One Pair, 26.44%
+KS, 9H, 7H, 4C, 2D, High Card, 0.84%
+KD, QC, 9D, 8H, 2H, High Card, 0.84%
+AH, KH, QH, 10C, 3H, High Card, 0.83%
+AD, KC, QH, QS, 7C, One Pair, 26.69%
+KD, 10D, 8S, 5D, 4D, High Card, 0.83%
+JS, 10D, 9H, 7C, 2D, High Card, 0.83%
+KD, JS, 7C, 4C, 2C, High Card, 0.83%
+KH, KS, QH, 10H, 7H, One Pair, 26.6%
+JH, 10S, 9D, 6D, 3S, High Card, 0.82%
+10H, 10S, 7H, 6D, 2H, One Pair, 26.51%
+JC, 10S, 7C, 5H, 3C, High Card, 0.82%
+KS, QS, JH, 8C, 3D, High Card, 0.82%
+AS, QD, 10C, 4C, 2D, High Card, 0.82%
+AD, 9C, 5S, 4D, 4S, One Pair, 26.42%
+10D, 9C, 8H, 4C, 3S, High Card, 0.82%
+AC, QD, 10H, 8C, 3H, High Card, 0.81%
+AS, KH, 8D, 7D, 6D, High Card, 0.81%
+QS, JC, 9S, 9D, 5H, One Pair, 26.67%
+JS, 9D, 7C, 4S, 2C, High Card, 0.81%
+QC, 10C, 7H, 3H, 3D, One Pair, 26.58%
+AS, AC, QD, 7S, 5S, One Pair, 26.82%
+AH, 6C, 6D, 5D, 4D, One Pair, 26.73%
+10H, 9H, 8H, 4H, 2S, High Card, 0.81%
+KD, 9S, 8D, 4H, 2C, High Card, 0.8%
+QS, 9D, 7H, 7S, 2H, One Pair, 26.64%
+10H, 10S, 8S, 6D, 4C, One Pair, 26.56%
+10H, 9C, 8D, 4H, 3H, High Card, 0.8%
+AH, 7H, 7D, 6S, 4D, One Pair, 26.47%
+AD, AH, JH, 8S, 8D, Two Pair, 80.0%
+KH, QC, 9D, 6D, 2H, High Card, 0.8%
+QC, 10C, 9H, 8H, 4H, High Card, 0.8%
+KH, QC, 6H, 5H, 5C, One Pair, 26.38%
+JH, JS, 10S, 8D, 7D, One Pair, 26.3%
+AH, KD, 10C, 5H, 2S, High Card, 0.8%
+QH, 10C, 7C, 5S, 2D, High Card, 0.79%
+QD, 10D, 9C, 8H, 3H, High Card, 0.79%
+AS, 10C, 4C, 4D, 2D, One Pair, 26.54%
+JC, JD, JS, 9H, 5C, Three of a Kind, 76.92%
+10C, 10H, 6D, 3H, 2S, One Pair, 26.45%
+KD, 9D, 6S, 4H, 4S, One Pair, 26.37%
+QD, JD, 5D, 5C, 4S, One Pair, 26.28%
+AC, 8D, 8C, 4S, 2S, One Pair, 26.52%
+QC, JC, JD, 5C, 2D, One Pair, 26.75%
+QD, 8D, 6S, 3S, 2C, High Card, 0.79%
+KH, 10D, 10C, 6H, 4S, One Pair, 26.67%
+AC, KH, 9D, 7C, 5D, High Card, 0.79%
+KS, QD, 9C, 7S, 5C, High Card, 0.79%
+QD, JS, 8H, 7D, 4H, High Card, 0.78%
+KH, JD, 10D, 6D, 2S, High Card, 0.78%
+10S, 9H, 9C, 4H, 3D, One Pair, 26.58%
+AH, 10S, 8S, 5C, 3D, High Card, 0.78%
+QH, 8C, 4H, 3S, 2D, High Card, 0.78%
+AC, KC, 10S, 9C, 9D, One Pair, 26.81%
+QS, 7H, 7D, 5H, 2C, One Pair, 27.04%
+AC, KC, 7H, 4C, 3H, High Card, 0.78%
+9S, 9H, 5C, 5H, 4C, Two Pair, 80.56%
+AH, AD, 6H, 5D, 2D, One Pair, 26.96%
+10C, 10D, 9C, 7H, 3C, One Pair, 26.88%
+AD, JD, 2C, 2S, 2H, Three of a Kind, 78.57%
+AH, JS, 9D, 8D, 2C, High Card, 0.77%
+KS, KC, 5D, 5H, 4H, Two Pair, 81.08%
+AH, QC, QH, 9C, 5S, One Pair, 27.1%
+8S, 5S, 5C, 4S, 3H, One Pair, 27.02%
+AD, KS, 10H, 6D, 5S, High Card, 0.77%
+AH, QS, QD, 10H, 4C, One Pair, 27.24%
+KC, 10C, 10S, 6C, 2D, One Pair, 27.16%
+KH, JH, 7D, 3D, 2H, High Card, 0.77%
+KC, KD, QC, JD, 3H, One Pair, 27.08%
+KH, 9H, 5H, 3D, 2H, High Card, 0.77%
+AS, KH, 10S, 10D, 3H, One Pair, 27.3%
+AC, 10C, 9H, 2C, 2H, One Pair, 27.22%
+9D, 8S, 7S, 5S, 4S, High Card, 0.77%
+AS, JD, 7S, 6S, 3C, High Card, 0.76%
+10H, 7C, 7H, 5D, 3H, One Pair, 27.13%
+9H, 8S, 7C, 7D, 5S, One Pair, 27.05%
+8S, 7S, 6D, 6H, 3H, One Pair, 26.97%
+KS, 10H, 9C, 7H, 2C, High Card, 0.76%
+9H, 8S, 8D, 7S, 4S, One Pair, 26.89%
+AD, KS, 6D, 5H, 4H, High Card, 1.01%
+QD, 10D, 5H, 5S, 3H, One Pair, 27.11%
+QC, 10S, 6D, 5H, 2H, High Card, 1.01%
+AS, JC, 8S, 8H, 4H, One Pair, 27.33%
+8C, 7D, 6C, 6S, 2H, One Pair, 27.25%
+QC, 7S, 4H, 4D, 3H, One Pair, 27.16%
+KD, 9D, 7S, 3C, 2D, High Card, 1.01%
+AC, KD, 9C, 5C, 2C, High Card, 1.01%
+QD, JC, 10H, 4H, 2H, High Card, 1.0%
+JD, 7S, 5S, 4D, 3S, High Card, 1.0%
+KD, KH, 8S, 8C, 7S, Two Pair, 81.58%
+AS, JC, JH, JS, 7D, Three of a Kind, 80.0%
+KD, JS, 5S, 4H, 4S, One Pair, 27.08%
+10D, 9S, 7H, 3S, 2H, High Card, 1.0%
+AD, 10S, 7D, 4S, 3H, High Card, 1.0%
+KC, KS, 9C, 3H, 2D, One Pair, 27.0%
+AS, JD, 10C, 9D, 3H, High Card, 0.99%
+AH, KH, 9C, 3S, 2H, High Card, 0.99%
+AC, KH, 8H, 5D, 4S, High Card, 0.99%
+10C, 10S, 8H, 5C, 2C, One Pair, 26.92%
+KC, KD, JH, 5H, 4H, One Pair, 26.84%
+AS, 8H, 4S, 3S, 2H, High Card, 0.99%
+9D, 8D, 6C, 5C, 4C, High Card, 0.98%
+AC, QD, 8C, 4D, 2D, High Card, 0.98%
+QC, 10C, 3D, 3S, 2H, One Pair, 26.76%
+KH, 8C, 7D, 6C, 4D, High Card, 0.98%
+9C, 9S, 8H, 4D, 3H, One Pair, 26.69%
+AD, KS, 6H, 3D, 2H, High Card, 0.98%
+10C, 9H, 6C, 5H, 4D, High Card, 0.97%
+JD, 9S, 7D, 3D, 2S, High Card, 0.97%
+QC, 8C, 4C, 3H, 2H, High Card, 0.97%
+AH, JC, 5S, 4S, 2D, High Card, 0.97%
+AD, 6H, 5H, 2C, 2D, One Pair, 26.61%
+KS, KH, QH, 9C, 4D, One Pair, 26.53%
+AD, QD, 10D, 9C, 6H, High Card, 0.96%
+QS, JD, JH, 10C, 4S, One Pair, 26.45%
+AC, 10S, 10H, 8H, 3D, One Pair, 26.67%
+AH, JS, 9D, 6H, 2C, High Card, 1.2%
+AC, QD, 9S, 5S, 4S, High Card, 1.2%
+QD, 9D, 7D, 4C, 3S, High Card, 1.2%
+9H, 9S, 6D, 5S, 2H, One Pair, 26.59%
+QS, 10S, 8D, 7C, 2S, High Card, 1.19%
+AC, 7D, 6S, 4S, 3C, High Card, 1.19%
+KH, 10C, 6C, 4C, 2C, High Card, 1.19%
+KC, 10D, 4D, 3H, 2C, High Card, 1.18%
+AS, KH, QS, 8H, 6C, High Card, 1.18%
+QC, QH, 8H, 5H, 4S, One Pair, 26.51%
+KS, 10S, 10H, 6S, 4S, One Pair, 26.44%
+JH, 9D, 9S, 9H, 9C, Four of a Kind, 100.0%
+KD, 10D, 9D, 8C, 2S, High Card, 1.18%
+QS, QC, 8C, 8H, 7H, Two Pair, 82.05%
+AH, QD, 9S, 9D, 5D, One Pair, 26.36%
+KC, JS, 8D, 8H, 6S, One Pair, 26.57%
+KH, 8S, 4C, 3H, 2S, High Card, 1.18%
+JS, JD, 9H, 8S, 6D, One Pair, 26.5%
+QS, 10H, 8H, 4S, 2C, High Card, 1.17%
+JS, 10H, 8D, 6H, 6C, One Pair, 26.42%
+AD, AC, QS, 6D, 3C, One Pair, 26.35%
+10H, 5C, 4H, 3C, 2D, High Card, 1.17%
+KS, KC, QS, 6S, 4S, One Pair, 26.55%
+AS, JC, 6D, 5D, 2C, High Card, 1.17%
+JC, 10C, 10S, 9H, 8C, One Pair, 26.48%
+JS, 10H, 7C, 6C, 6H, One Pair, 26.4%
+KH, 10S, 9S, 8S, 8C, One Pair, 26.33%
+KC, QS, JH, 6H, 4D, High Card, 1.17%
+QD, 8C, 8H, 3C, 2S, One Pair, 26.26%
+AC, KS, 10C, 9D, 8C, High Card, 1.16%
+AC, KC, QH, 7H, 6C, High Card, 1.16%
+AC, 10C, 8H, 7D, 6C, High Card, 1.16%
+AC, 10S, 7S, 4C, 3S, High Card, 1.15%
+8D, 8C, 5C, 5S, 2D, Two Pair, 82.5%
+10S, 10D, 9S, 4C, 3H, One Pair, 26.18%
+AD, 10S, 7S, 5S, 4H, High Card, 1.15%
+AH, AS, KH, 5C, 2C, One Pair, 26.39%
+KH, QC, 7C, 4H, 4S, One Pair, 26.32%
+KH, JC, 9S, 8D, 5S, High Card, 1.15%
+KH, JS, 10D, 9C, 5D, High Card, 1.15%
+KS, QS, 10C, 8S, 2D, High Card, 1.14%
+AS, QS, JS, JC, 3H, One Pair, 26.24%
+AS, 10S, 6S, 4S, 3H, High Card, 1.14%
+JH, 9C, 7C, 3C, 2C, High Card, 1.14%
+AS, 10D, 6S, 3D, 3C, One Pair, 26.45%
+KC, JS, JH, 3S, 2H, One Pair, 26.37%
+KS, 7S, 4D, 2H, 2D, One Pair, 26.58%
+AS, 10C, 6S, 6D, 5H, One Pair, 26.5%
+JS, 9D, 9C, 7C, 7H, Two Pair, 82.93%
+KC, QS, JS, 8H, 8D, One Pair, 26.43%
+KH, QD, JD, 6S, 5C, High Card, 1.14%
+KD, 10S, 8C, 4D, 3S, High Card, 1.13%
+AD, 10S, 8S, 6S, 6H, One Pair, 26.63%
+QH, 10D, 6D, 5H, 4H, High Card, 1.13%
+AS, JC, 5C, 2H, 2C, One Pair, 26.83%
+10H, 8S, 7C, 7D, 4H, One Pair, 27.03%
+KH, 9S, 7D, 5C, 3S, High Card, 1.13%
+QH, 10D, 7C, 6S, 5D, High Card, 1.13%
+KS, KH, 7S, 4C, 4S, Two Pair, 83.33%
+AH, QH, 8H, 4H, 2H, Flush, 100.0%
+KH, 9H, 6D, 5D, 4H, High Card, 1.12%
+QS, 8H, 7S, 6H, 2D, High Card, 1.12%
+QS, 6S, 5H, 4D, 2D, High Card, 1.12%
+KS, QD, 10D, 7C, 6H, High Card, 1.12%
+10C, 6C, 4H, 3S, 2C, High Card, 1.11%
+9S, 9D, 8D, 6D, 5H, One Pair, 27.22%
+KC, 10S, 6S, 2C, 2H, One Pair, 27.15%
+10C, 10H, 10S, 8C, 6H, Three of a Kind, 81.25%
+10H, 7S, 5C, 3C, 3S, One Pair, 27.08%
+KS, 9D, 5S, 4C, 3H, High Card, 1.11%
+QS, 8S, 6H, 3S, 2H, High Card, 1.11%
+QH, QD, JD, 8C, 5H, One Pair, 27.01%
+KC, 9S, 9C, 7H, 6D, One Pair, 27.2%
+QC, QH, 6C, 5H, 3H, One Pair, 27.13%
+QS, 7S, 5C, 5D, 2H, One Pair, 27.06%
+JC, JS, 10H, 5D, 2S, One Pair, 26.98%
+AD, KC, 7C, 6H, 4H, High Card, 1.11%
+KS, JS, 7S, 4H, 3D, High Card, 1.1%
+AC, JH, JS, 5S, 2S, One Pair, 27.18%
+AH, QH, JD, 10H, 6H, High Card, 1.1%
+JC, 10C, 8C, 6H, 5D, High Card, 1.1%
+QD, 8D, 5H, 4C, 2H, High Card, 1.1%
+KC, JS, 8H, 7S, 3C, High Card, 1.09%
+KH, JC, 7H, 3C, 3H, One Pair, 27.11%
+QS, JS, 5S, 4S, 3H, High Card, 1.09%
+KC, KD, QS, JH, 4H, One Pair, 27.3%
+QD, JC, 10D, 6D, 3C, High Card, 1.09%
+QH, 10H, 7S, 4D, 2S, High Card, 1.09%
+AC, KD, 10S, 5C, 3S, High Card, 1.08%
+KS, 10S, 8C, 7S, 4C, High Card, 1.08%
+8H, 3C, 3D, 2C, 2H, Two Pair, 81.4%
+10S, 8D, 7H, 6H, 6C, One Pair, 27.23%
+QD, 9C, 7C, 5D, 2H, High Card, 1.08%
+AS, 9D, 7H, 5H, 4C, High Card, 1.08%
+KH, JC, 7H, 6H, 2D, High Card, 1.08%
+KD, 10D, 6S, 3C, 2C, High Card, 1.07%
+KS, 9D, 8S, 7H, 4S, High Card, 1.07%
+10H, 7C, 5D, 3D, 2S, High Card, 1.07%
+QD, JS, 10H, 3C, 3S, One Pair, 27.15%
+QH, JH, 9C, 8D, 6H, High Card, 1.07%
+QH, 10D, 7D, 3D, 2H, High Card, 1.06%
+AS, 10S, 3S, 2H, 2D, One Pair, 27.34%
+8D, 7S, 4H, 2D, 2S, One Pair, 27.27%
+AC, AS, 10D, 5H, 5S, Two Pair, 81.82%
+JS, JC, 7H, 4C, 3S, One Pair, 27.2%
+KH, 7C, 6S, 2H, 2S, One Pair, 27.13%
+AD, KD, 9D, 6C, 3S, High Card, 1.06%
+KH, QD, JH, 10S, 9D, Straight, 100.0%
+JC, 10C, 9S, 8S, 6S, High Card, 1.06%
+AS, QC, 7S, 6H, 3D, High Card, 1.06%
+AH, 10H, 6C, 3D, 3C, One Pair, 27.06%
+10D, 8H, 7H, 6S, 2S, High Card, 1.05%
+QD, 10S, 5S, 4H, 4S, One Pair, 27.25%
+KH, 10D, 10H, 3D, 3H, Two Pair, 80.0%
+KS, 9D, 8S, 7D, 5D, High Card, 1.05%
+8S, 7S, 6C, 3D, 2C, High Card, 1.05%
+KH, 7S, 5S, 5C, 4C, One Pair, 27.18%
+KC, JH, 8S, 7C, 2C, High Card, 1.05%
+10H, 7H, 7C, 5D, 4C, One Pair, 27.11%
+AH, KC, JH, 10H, 8H, High Card, 1.05%
+QH, JD, 10D, 8S, 7H, High Card, 1.04%
+AD, AH, 9S, 8S, 7C, One Pair, 27.04%
+9D, 7C, 7H, 3D, 3S, Two Pair, 80.43%
+AH, KS, KD, 7D, 4S, One Pair, 27.23%
+10S, 8S, 6C, 6S, 5S, One Pair, 27.16%
+QH, 9H, 6S, 4S, 2S, High Card, 1.04%
+KD, 5C, 5S, 4C, 4D, Two Pair, 80.85%
+10S, 9C, 8D, 5C, 2H, High Card, 1.04%
+QH, JS, JH, 8H, 4C, One Pair, 27.34%
+QS, QD, 10C, 5H, 2S, One Pair, 27.27%
+KC, KH, QD, 8C, 2D, One Pair, 27.2%
+KH, 9H, 9S, 7D, 4H, One Pair, 27.14%
+QD, 10C, 6H, 3C, 2D, High Card, 1.04%
+AC, KH, QC, 8H, 3C, High Card, 1.04%
+AD, QS, 9C, 8H, 2H, High Card, 1.03%
+AC, QS, JS, JH, 2D, One Pair, 27.32%
+QC, 10S, 2H, 2D, 2S, Three of a Kind, 76.47%
+KC, JH, 7D, 2D, 2S, One Pair, 27.25%
+JC, 10D, 8H, 8C, 4H, One Pair, 27.18%
+JC, 10H, 6H, 4D, 3S, High Card, 1.03%
+AH, 7H, 6C, 4D, 2H, High Card, 1.03%
+AD, AH, QS, 10H, 2D, One Pair, 27.36%
+AD, 6S, 3S, 2S, 2H, One Pair, 27.3%
+10S, 9C, 7D, 7S, 6S, One Pair, 27.23%
+AC, JH, 4D, 2D, 2H, One Pair, 27.41%
+QS, 7S, 4C, 3C, 2S, High Card, 1.03%
+KC, JH, 10D, 8C, 4C, High Card, 1.02%
+KH, KC, QC, JC, 4C, One Pair, 27.34%
+AC, KC, 10D, 10H, 8D, One Pair, 27.52%
+QC, 10S, 9S, 8H, 6C, High Card, 1.02%
+AC, QC, JS, JC, 8H, One Pair, 27.45%
+AC, KD, QH, 8S, 7H, High Card, 1.02%
+AH, KS, 10C, 9C, 6H, High Card, 1.02%
+AS, KC, JC, 10S, 6C, High Card, 1.02%
+JH, 9S, 9H, 8C, 3C, One Pair, 27.38%
+QC, 10S, 8C, 5D, 4H, High Card, 1.01%
+AD, 8D, 7S, 2H, 2D, One Pair, 27.32%
+KS, 8S, 5S, 4H, 2C, High Card, 1.01%
+AS, 10S, 9D, 7C, 4H, High Card, 1.01%
+10D, 5C, 5D, 4C, 4D, Two Pair, 81.25%
+KH, 9C, 5S, 2S, 2C, One Pair, 27.25%
+KS, JH, 10C, 6C, 3D, High Card, 1.01%
+10S, 8H, 5C, 4H, 3H, High Card, 1.01%
+KH, 6C, 5C, 2S, 2H, One Pair, 27.43%
+JC, 10D, 7S, 4C, 2H, High Card, 1.0%
+AH, QH, QD, 4S, 3C, One Pair, 27.36%
+9S, 7H, 6H, 5S, 3D, High Card, 1.0%
+QS, 10D, 7C, 4D, 3C, High Card, 1.0%
+KH, QH, 9S, 7S, 2C, High Card, 1.0%
+AC, 10S, 10H, 9H, 8H, One Pair, 27.54%
+QC, JH, 10C, 8S, 7H, High Card, 1.0%
+KH, QD, JH, 8S, 4D, High Card, 0.99%
+AD, KS, JC, 8H, 7H, High Card, 0.99%
+KD, 10H, 9S, 5H, 5S, One Pair, 27.71%
+KS, 8H, 8S, 3H, 2H, One Pair, 27.64%
+JD, 8S, 4C, 3C, 2C, High Card, 0.99%
+AD, 7C, 6H, 5C, 2S, High Card, 0.99%
+KC, QD, JS, 8D, 2S, High Card, 0.99%
+AS, 9S, 7S, 6S, 3C, High Card, 0.98%
+AD, QS, 10D, 9C, 3D, High Card, 0.98%

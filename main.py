@@ -1,9 +1,5 @@
 # CS 461 Spring 2022 Program 1
 # Jake Cross: jackgw@umsystem.edu
-
-"""for a in deck:
-    print(a, end=" ")
-print()"""
 import random
 
 
@@ -171,6 +167,21 @@ def high(p1, p2):
         return 0
 
 
+def perOfWin(dic):
+    if dic["count"] != 0:
+        return round(dic["win"] / dic["count"] * 100, 2)
+    else:
+        return 0.0
+
+
+def perOfGet(dic, deno):
+    if dic["count"] != 0:
+        return round(dic["count"] / deno * 100, 2)
+    else:
+        return 0.0
+
+
+trial = 1000
 RANKS = (2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14)
 SUITS = ('S', 'H', 'D', 'C')
 deck = []
@@ -189,8 +200,10 @@ for number in RANKS:
         deck.append(Card(number, char))
 
 outfile = open("log.txt", 'w')
+outfile.write("HAND, RANK, Percentage")
+outfile.write("\n")
 # Continuing for more than 500 times
-for i in range(1, 1001):
+for i in range(trial):
     computers = []
     random.shuffle(deck)
     you = Player(deck[:5])
@@ -220,54 +233,74 @@ for i in range(1, 1001):
     """
 
     result = high(you, strongest(computers))
-    percentage = 0
     if you.value == 9:
         st_flush["win"] += result
         st_flush["count"] += 1
-        percentage = round(st_flush["win"] / st_flush["count"] * 100, 2)
         if isRoyal(you.hand):
-            outfile.write("Royal Straight Flush!!!, " + str(percentage) + "%")
+            outfile.write("Royal Straight Flush!!!, " + str(perOfWin(st_flush)) + "%")
         else:
-            outfile.write("Straight Flush, " + str(percentage) + "%")
+            outfile.write("Straight Flush, " + str(perOfWin(st_flush)) + "%")
     elif you.value == 8:
         four_card["win"] += result
         four_card["count"] += 1
-        percentage = round(four_card["win"] / four_card["count"] * 100, 2)
-        outfile.write("Four of a Kind, " + str(percentage) + "%")
+        outfile.write("Four of a Kind, " + str(perOfWin(four_card)) + "%")
+    # Switch to perOfWin below
     elif you.value == 7:
         full_house["win"] += result
         full_house["count"] += 1
-        percentage = round(full_house["win"] / full_house["count"] * 100, 2)
-        outfile.write("Full House, " + str(percentage) + "%")
+        outfile.write("Full House, " + str(perOfWin(full_house)) + "%")
     elif you.value == 6:
         flush["win"] += result
         flush["count"] += 1
-        percentage = round(flush["win"] / flush["count"] * 100, 2)
-        outfile.write("Flush, " + str(percentage) + "%")
+        outfile.write("Flush, " + str(perOfWin(flush)) + "%")
     elif you.value == 5:
         straight["win"] += result
         straight["count"] += 1
-        percentage = round(straight["win"] / straight["count"] * 100, 2)
-        outfile.write("Straight, " + str(percentage) + "%")
+        outfile.write("Straight, " + str(perOfWin(straight)) + "%")
     elif you.value == 4:
         three_card["win"] += result
         three_card["count"] += 1
         percentage = round(three_card["win"] / three_card["count"] * 100, 2)
-        outfile.write("Three of a Kind, " + str(percentage) + "%")
+        outfile.write("Three of a Kind, " + str(perOfWin(three_card)) + "%")
     elif you.value == 3:
         two_pair["win"] += result
         two_pair["count"] += 1
         percentage = round(two_pair["win"] / two_pair["count"] * 100, 2)
-        outfile.write("Two Pair, " + str(percentage) + "%")
+        outfile.write("Two Pair, " + str(perOfWin(two_pair)) + "%")
     elif you.value == 2:
         one_pair["win"] += result
         one_pair["count"] += 1
         percentage = round(one_pair["win"] / one_pair["count"] * 100, 2)
-        outfile.write("One Pair, " + str(percentage) + "%")
+        outfile.write("One Pair, " + str(perOfWin(one_pair)) + "%")
     else:
         high_card["win"] += result
         high_card["count"] += 1
         percentage = round(high_card["win"] / high_card["count"] * 100, 2)
-        outfile.write("High Card, " + str(percentage) + "%")
+        outfile.write("High Card, " + str(perOfWin(high_card)) + "%")
     outfile.write("\n")
 outfile.close()
+
+summary = open("summary.txt", 'w')
+summary.write("Overall percentage of each rank \n")
+summary.write("Hand: High Card, Percentage of Hand: " + str(perOfGet(high_card, trial)) + "%, ")
+summary.write("Percentage of Win: " + str(perOfWin(high_card)) + "%\n")
+summary.write("Hand: One Pair, Percentage of Hand: " + str(perOfGet(one_pair, trial)) + "%, ")
+summary.write("Percentage of Win: " + str(perOfWin(one_pair)) + "%\n")
+summary.write("Hand: Two Pair, Percentage of Hand: " + str(perOfGet(two_pair, trial)) + "%, ")
+summary.write("Percentage of Win: " + str(perOfWin(two_pair)) + "%\n")
+summary.write("Hand: Three of a Kind, Percentage of Hand: " + str(perOfGet(three_card, trial)) + "%, ")
+summary.write("Percentage of Win: " + str(perOfWin(three_card)) + "%\n")
+summary.write("Hand: Straight, Percentage of Hand: " + str(perOfGet(straight, trial)) + "%, ")
+summary.write("Percentage of Win: " + str(perOfWin(straight)) + "%\n")
+summary.write("Hand: Flush, Percentage of Hand: " + str(perOfGet(flush, trial)) + "%, ")
+summary.write("Percentage of Win: " + str(perOfWin(flush)) + "%\n")
+summary.write("Hand: Full House, Percentage of Hand: " + str(perOfGet(full_house, trial)) + "%, ")
+summary.write("Percentage of Win: " + str(perOfWin(full_house)) + "%\n")
+summary.write("Hand: Four of a Kind, Percentage of Hand: " + str(perOfGet(four_card, trial)) + "%, ")
+summary.write("Percentage of Win: " + str(perOfWin(four_card)) + "%\n")
+summary.write("Hand: Straight Flush, Percentage of Hand: " + str(perOfGet(st_flush, trial)) + "%, ")
+summary.write("Percentage of Win: " + str(perOfWin(st_flush)) + "%\n")
+'''summary.write("Hand: One Pair, Percentage of Hand: " + str(per_hand) + "%, ")
+summary.write("Percentage of Win: " + str(percentage) + "%\n")'''
+summary.close()
+
