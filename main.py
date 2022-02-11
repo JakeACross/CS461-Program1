@@ -31,9 +31,6 @@ class Card:
     def __gt__(self, other):
         return self.rank > other.rank
 
-    def __ge__(self, other):
-        return self.rank >= other.rank
-
     def __sub__(self, other):
         return self.rank - other.rank
 
@@ -97,21 +94,21 @@ def isThree(hand):
         for j in range(i + 1, 5):
             if hand[i] == hand[j]:
                 count += 1
-        if count == 3:
+        if count == 2:
             return True
     return False
 
 
 def isFull(hand):
     if isThree(hand):
+        count = 0
         for i in range(4):
-            count = 0
             for j in range(i + 1, 5):
                 if hand[i] == hand[j]:
                     count += 1
-            if count == 0:
-                return False
-        return True
+            if count == 4:
+                return True
+    return False
 
 
 def isFour(hand):
@@ -120,7 +117,7 @@ def isFour(hand):
         for j in range(i + 1, 5):
             if hand[i] == hand[j]:
                 count += 1
-        if count == 4:
+        if count == 3:
             return True
     return False
 
@@ -177,7 +174,6 @@ def high(p1, p2):
 RANKS = (2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14)
 SUITS = ('S', 'H', 'D', 'C')
 deck = []
-computers = []
 high_card = {"win": 0, "count": 0}
 one_pair = {"win": 0, "count": 0}
 two_pair = {"win": 0, "count": 0}
@@ -194,7 +190,7 @@ for number in RANKS:
 
 outfile = open("log.txt", 'w')
 # Continuing for more than 500 times
-for i in range(1, 501):
+for i in range(1, 1001):
     computers = []
     random.shuffle(deck)
     you = Player(deck[:5])
@@ -237,7 +233,7 @@ for i in range(1, 501):
         four_card["win"] += result
         four_card["count"] += 1
         percentage = round(four_card["win"] / four_card["count"] * 100, 2)
-        outfile.write("Four of a KInd, " + str(percentage) + "%")
+        outfile.write("Four of a Kind, " + str(percentage) + "%")
     elif you.value == 7:
         full_house["win"] += result
         full_house["count"] += 1
@@ -257,7 +253,7 @@ for i in range(1, 501):
         three_card["win"] += result
         three_card["count"] += 1
         percentage = round(three_card["win"] / three_card["count"] * 100, 2)
-        outfile.write("Three of a KInd, " + str(percentage) + "%")
+        outfile.write("Three of a Kind, " + str(percentage) + "%")
     elif you.value == 3:
         two_pair["win"] += result
         two_pair["count"] += 1
@@ -275,4 +271,3 @@ for i in range(1, 501):
         outfile.write("High Card, " + str(percentage) + "%")
     outfile.write("\n")
 outfile.close()
-
