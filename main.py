@@ -3,12 +3,13 @@
 import random
 
 
+#  Class Card has two objects which are rank and suit. Also, it involves operator overloading
 class Card:
     def __init__(self, rank, suit):
         self.rank = rank
         self.suit = suit
 
-    def __str__(self):
+    def __str__(self):  # Define the print style of Card class
         if self.rank == 14:
             rank = 'A'
         elif self.rank == 13:
@@ -19,7 +20,7 @@ class Card:
             rank = 'J'
         else:
             rank = self.rank
-        return str(rank) + self.suit
+        return str(rank) + self.suit  # printed as rank + suit like AS
 
     def __eq__(self, other):
         return self.rank == other.rank
@@ -31,6 +32,7 @@ class Card:
         return self.rank - other.rank
 
 
+#  Class Player has two objects which are hand (list) and value (rank of hand). Also, it involves operator overloading
 class Player:
     def __init__(self, hand, value=1):
         self.hand = hand
@@ -42,7 +44,7 @@ class Player:
     def __gt__(self, other):
         return self.value > other.value
 
-    def evaluate(self):
+    def evaluate(self):  # This function rank the player's hand
         self.hand.sort(reverse=True)
         if isFlush(self.hand) and isStraight(self.hand):
             self.value = 9
@@ -64,6 +66,8 @@ class Player:
             self.value = 1
 
 
+# These functions return True if it fills requirements of the rank of hand
+# isOne return True if the hand is one pair, and so on
 def isOne(hand):
     for i in range(4):
         for j in range(i + 1, 5):
@@ -143,6 +147,8 @@ def isRoyal(hand):
     return False
 
 
+# This function takes a list of players as a parameter
+# Return the player has the best hand
 def strongest(players):
     high_p = players[0]
     for p in range(1, len(players) - 1):
@@ -151,6 +157,8 @@ def strongest(players):
     return high_p
 
 
+# This function takes two players (class) as a parameter
+# Return the player has the better hand
 def high(p1, p2):
     if p1 > p2:
         return 1
@@ -167,6 +175,7 @@ def high(p1, p2):
         return 0
 
 
+# This function calculates certain percentage from the assigned dictionary
 def perOfWin(dic):
     if dic["count"] != 0:
         return round(dic["win"] / dic["count"] * 100, 2)
@@ -174,6 +183,7 @@ def perOfWin(dic):
         return 0.0
 
 
+# This function calculates certain percentage from the assigned dictionary
 def perOfGet(dic, deno):
     if dic["count"] != 0:
         return round(dic["count"] / deno * 100, 2)
@@ -181,10 +191,11 @@ def perOfGet(dic, deno):
         return 0.0
 
 
-trial = 1000
+trial = 1000  # The number of testing
 RANKS = (2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14)
 SUITS = ('S', 'H', 'D', 'C')
 deck = []
+# Create dictionaries for calculating percentages
 high_card = {"win": 0, "count": 0}
 one_pair = {"win": 0, "count": 0}
 two_pair = {"win": 0, "count": 0}
@@ -194,11 +205,12 @@ four_card = {"win": 0, "count": 0}
 straight = {"win": 0, "count": 0}
 flush = {"win": 0, "count": 0}
 st_flush = {"win": 0, "count": 0}
+royal = {"win": 0, "count": 0}
 # Create a deck
 for number in RANKS:
     for char in SUITS:
         deck.append(Card(number, char))
-
+# Open an output file for writing
 outfile = open("log.txt", 'w')
 outfile.write("HAND, RANK, Percentage")
 outfile.write("\n")
@@ -206,39 +218,40 @@ outfile.write("\n")
 for i in range(trial):
     computers = []
     random.shuffle(deck)
+    # Deal the cards from the deck to each player
     you = Player(deck[:5])
     com1 = Player(deck[5:10])
     com2 = Player(deck[10:15])
     com3 = Player(deck[15:20])
     com4 = Player(deck[20:25])
     com5 = Player(deck[25:30])
+    # Rank the hand of players
     you.evaluate()
     com1.evaluate()
     com2.evaluate()
     com3.evaluate()
     com4.evaluate()
     com5.evaluate()
+    # Store computer players to the list
     computers.append(com1)
     computers.append(com2)
     computers.append(com3)
     computers.append(com4)
     computers.append(com5)
+    # Write 'your' hand to the file
     for c in you.hand:
         outfile.write(str(c) + ", ")
-    """
-    outfile.write(" vs ")
-    print()
-    for c in strongest(computers).hand:
-        outfile.write(str(c) + ", ")
-    """
-
-    result = high(you, strongest(computers))
+    result = high(you, strongest(computers))  # Determine if you win the game or not
+    # Each class Player has 'value' object representing the rank of the player's hand
+    # Write the rank and percentages to the file
     if you.value == 9:
-        st_flush["win"] += result
-        st_flush["count"] += 1
         if isRoyal(you.hand):
-            outfile.write("Royal Straight Flush!!!, " + str(perOfWin(st_flush)) + "%")
+            royal["win"] += result
+            royal["count"] += 1
+            outfile.write("Royal Straight Flush!!!, " + str(perOfWin(royal)) + "%")
         else:
+            st_flush["win"] += result
+            st_flush["count"] += 1
             outfile.write("Straight Flush, " + str(perOfWin(st_flush)) + "%")
     elif you.value == 8:
         four_card["win"] += result
@@ -278,8 +291,9 @@ for i in range(trial):
         percentage = round(high_card["win"] / high_card["count"] * 100, 2)
         outfile.write("High Card, " + str(perOfWin(high_card)) + "%")
     outfile.write("\n")
-outfile.close()
-
+outfile.close()  # Close the file
+# Open another file for writing
+# Write a rank and certain percentages to the file
 summary = open("summary.txt", 'w')
 summary.write("Overall percentage of each rank \n")
 summary.write("Hand: High Card, Percentage of Hand: " + str(perOfGet(high_card, trial)) + "%, ")
@@ -300,7 +314,8 @@ summary.write("Hand: Four of a Kind, Percentage of Hand: " + str(perOfGet(four_c
 summary.write("Percentage of Win: " + str(perOfWin(four_card)) + "%\n")
 summary.write("Hand: Straight Flush, Percentage of Hand: " + str(perOfGet(st_flush, trial)) + "%, ")
 summary.write("Percentage of Win: " + str(perOfWin(st_flush)) + "%\n")
-'''summary.write("Hand: One Pair, Percentage of Hand: " + str(per_hand) + "%, ")
-summary.write("Percentage of Win: " + str(percentage) + "%\n")'''
+summary.write("Hand: Royal Straight Flush, Percentage of Hand: " + str(perOfGet(royal, trial)) + "%, ")
+summary.write("Percentage of Win: " + str(perOfWin(royal)) + "%\n")
+# Close the file
 summary.close()
 

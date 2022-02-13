@@ -1,10 +1,11 @@
 Overall percentage of each rank 
-Hand: High Card, Percentage of Hand: 50.9%, Percentage of Win: 0.98%
-Hand: One Pair, Percentage of Hand: 41.6%, Percentage of Win: 27.64%
-Hand: Two Pair, Percentage of Hand: 4.8%, Percentage of Win: 81.25%
-Hand: Three of a Kind, Percentage of Hand: 1.7%, Percentage of Win: 76.47%
-Hand: Straight, Percentage of Hand: 0.4%, Percentage of Win: 100.0%
-Hand: Flush, Percentage of Hand: 0.2%, Percentage of Win: 100.0%
+Hand: High Card, Percentage of Hand: 48.6%, Percentage of Win: 1.65%
+Hand: One Pair, Percentage of Hand: 42.5%, Percentage of Win: 31.06%
+Hand: Two Pair, Percentage of Hand: 6.4%, Percentage of Win: 68.75%
+Hand: Three of a Kind, Percentage of Hand: 1.6%, Percentage of Win: 93.75%
+Hand: Straight, Percentage of Hand: 0.6%, Percentage of Win: 100.0%
+Hand: Flush, Percentage of Hand: 0.1%, Percentage of Win: 100.0%
 Hand: Full House, Percentage of Hand: 0.2%, Percentage of Win: 100.0%
-Hand: Four of a Kind, Percentage of Hand: 0.2%, Percentage of Win: 100.0%
+Hand: Four of a Kind, Percentage of Hand: 0.0%, Percentage of Win: 0.0%
 Hand: Straight Flush, Percentage of Hand: 0.0%, Percentage of Win: 0.0%
+Hand: Royal Straight Flush, Percentage of Hand: 0.0%, Percentage of Win: 0.0%
