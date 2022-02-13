@@ -22,6 +22,6 @@ to make it reader-friendly.
 
 
 ### Reference
-- https://github.com/annaymj/Python-Code/blob/master/Poker.py
-- https://www.geeksforgeeks.org/operator-overloading-in-python/
-- https://en.wikipedia.org/wiki/List_of_poker_hands#Hand-ranking_categories
+- Python Porker Project: https://github.com/annaymj/Python-Code/blob/master/Poker.py
+- Operator Ovaloading: https://www.geeksforgeeks.org/operator-overloading-in-python/
+- Rank of Porker Hand: https://en.wikipedia.org/wiki/List_of_poker_hands#Hand-ranking_categories
